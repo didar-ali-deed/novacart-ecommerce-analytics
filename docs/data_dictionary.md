@@ -6,8 +6,7 @@ This dictionary describes the six cleaned CSV tables supplied in `data/cleaned/`
 
 **Purpose:** One row per customer, including profile and signup information.
 
-**Primary key:** `Customer_ID`  
-**Foreign keys:** None. `Customer_ID` is referenced by `orders.Customer_ID`.
+**Primary key:** `Customer_ID`; **foreign keys:** None. `Customer_ID` is referenced by `orders.Customer_ID`.
 
 | Column | Business meaning |
 |---|---|
@@ -22,8 +21,7 @@ This dictionary describes the six cleaned CSV tables supplied in `data/cleaned/`
 
 **Purpose:** Product catalog and baseline pricing, cost, margin, and return assumptions.
 
-**Primary key:** `Product_ID`  
-**Foreign keys:** None. `Product_ID` is referenced by `order_items.Product_ID` and `returns.Product_ID`.
+**Primary key:** `Product_ID`; **foreign keys:** None. `Product_ID` is referenced by `order_items.Product_ID` and `returns.Product_ID`.
 
 | Column | Business meaning |
 |---|---|
@@ -40,8 +38,7 @@ This dictionary describes the six cleaned CSV tables supplied in `data/cleaned/`
 
 **Purpose:** Order-level customer, date, channel, payment, and fulfillment details.
 
-**Primary key:** `Order_ID`  
-**Foreign keys:** `Customer_ID` references `customers.Customer_ID`. `Order_ID` is referenced by `order_items.Order_ID`.
+**Primary key:** `Order_ID`; **foreign keys:** `Customer_ID` references `customers.Customer_ID`. `Order_ID` is referenced by `order_items.Order_ID`.
 
 | Column | Business meaning |
 |---|---|
@@ -58,8 +55,7 @@ This dictionary describes the six cleaned CSV tables supplied in `data/cleaned/`
 
 **Purpose:** Order-line detail with quantities and calculated sales, discount, cost, and profit values.
 
-**Primary key:** `Order_Item_ID`  
-**Foreign keys:** `Order_ID` references `orders.Order_ID`; `Product_ID` references `products.Product_ID`. `Order_Item_ID` is referenced by `returns.Order_Item_ID`.
+**Primary key:** `Order_Item_ID`; **foreign keys:** `Order_ID` references `orders.Order_ID`; `Product_ID` references `products.Product_ID`. `Order_Item_ID` is referenced by `returns.Order_Item_ID`.
 
 | Column | Business meaning |
 |---|---|
@@ -79,8 +75,7 @@ This dictionary describes the six cleaned CSV tables supplied in `data/cleaned/`
 
 **Purpose:** Returned order-line records, including reason, refund, and return status.
 
-**Primary key:** `Return_ID`  
-**Foreign keys:** `Order_Item_ID` references `order_items.Order_Item_ID` (one-to-one in the Power BI model); `Order_ID` references `orders.Order_ID`; `Product_ID` references `products.Product_ID`.
+**Primary key:** `Return_ID`; **foreign keys:** `Order_Item_ID` references `order_items.Order_Item_ID` (one-to-one in the Power BI model); `Order_ID` references `orders.Order_ID`; `Product_ID` references `products.Product_ID`.
 
 | Column | Business meaning |
 |---|---|
@@ -97,8 +92,7 @@ This dictionary describes the six cleaned CSV tables supplied in `data/cleaned/`
 
 **Purpose:** Campaign activity and spend by campaign, month, and channel.
 
-**Primary key:** `Campaign_ID` in the supplied cleaned data.  
-**Foreign keys:** None. `Channel` is a shared label used for directional comparisons with `orders.Channel`; it is not a relational key to individual orders.
+**Primary key:** `Campaign_ID` in the supplied cleaned data; **foreign keys:** None. `Channel` is a shared label used for directional comparisons with `orders.Channel`; it is not a relational key to individual orders.
 
 | Column | Business meaning |
 |---|---|
