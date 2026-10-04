@@ -1,0 +1,1201 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,List_Price,Unit_Cost,Base_Margin,Base_Return_Rate
+P00001,Brivon Classic Fitness,Sports & Outdoors,Fitness,Brivon,34.88,19.97,0.4274,0.07
+P00002,Mirello Comfort Bags,Fashion,Bags,Mirello,40.7,25.99,0.3614,0.13
+P00003,Solara Pro Stationery,Office,Stationery,Solara,34.21,24.1,0.2954,0.04
+P00004,Nexora Classic Yoga,Sports & Outdoors,Yoga,Nexora,25.01,15.59,0.3766,0.07
+P00005,Orbito Lite Power Banks,Electronics,Power Banks,Orbito,100.96,77.7,0.2304,0.085
+P00006,Kentra Essential Pet Beds,Pet Supplies,Pet Beds,Kentra,17.92,12.31,0.3132,0.035
+P00007,Velto Prime Fitness,Sports & Outdoors,Fitness,Velto,44.57,27.06,0.3928,0.07
+P00008,Calibre Lite Camping,Sports & Outdoors,Camping,Calibre,48.22,30.9,0.3593,0.07
+P00009,Torven Lite Speakers,electronics,Speakers,Torven,117.26,92.12,0.2144,0.085
+P00010,Avero Pro Shoes,Fashion,Shoes,Avero,28.19,13.92,0.5063,0.13
+P00011,Lumex Max Accessories,Fashion,Accessories,Lumex,27.02,14.93,0.4472,0.13
+P00012,Nexora Classic Dog Supplies,Pet Supplies,Dog Supplies,Nexora,24.53,12.95,0.4721,0.035
+P00013,Kentra Classic Hair Care,Beauty,Hair Care,Kentra,18.56,9.91,0.4658,0.045
+P00014,Calibre Flex Stationery,Office,Stationery,Calibre,53.74,39.93,0.257,0.04
+P00015,Mirello Essential T-Shirts,Fashion,T-Shirts,Mirello,15.0,9.38,0.3747,0.13
+P00016,Nexora Flex Cookware,home & kitchen,Cookware,Nexora,16.89,12.46,0.262,0.055
+P00017,Novexa Plus Grooming, Beauty ,Grooming,Novexa,49.27,24.33,0.5063,0.045
+P00018,Avero Classic Speakers,Electronics,Speakers,Avero,55.78,42.16,0.2442,0.085
+P00019,Torven Elite Chairs,Office,Chairs,Torven,46.38,29.45,0.3651,0.04
+P00020,Solara Lite Skincare, Beauty ,Skincare,Solara,16.63,8.32,0.4997,0.045
+P00021,Torven Prime Camping,Sports & Outdoors,Camping,Torven,53.42,34.96,0.3455,0.07
+P00022,Velto Plus Shoes,Fashion,Shoes,Velto,49.58,28.57,0.4238,0.13
+P00023,Lumex Max Toys,Pet Supplies,Toys,Lumex,45.64,26.57,0.4179,0.035
+P00024,Calibre Comfort Stationery,Office,STATIONERY,Calibre,28.39,19.94,0.2977,0.04
+P00025,Mirello Prime Cycling,Sports & Outdoors,Cycling,Mirello,22.78,14.93,0.3444,0.07
+P00026,Kentra Lite Storage,Home & Kitchen,Storage,Kentra,71.82,47.24,0.3422,0.055
+P00027,Tekaro Elite Jeans,Fashion,Jeans,Tekaro,35.35,20.37,0.4238,0.13
+P00028,Orbito Plus Keyboards,Electronics,Keyboards,Orbito,82.23,66.18,0.1951,0.085
+P00029,Zenvia Prime Mice,Electronics,Mice,Zenvia,87.42,68.68,0.2143,0.085
+P00030,Solara Flex Running,Sports & Outdoors,Running,Solara,50.25,34.22,0.3189,0.07
+P00031,Mirello Elite Outdoor Gear,Sports & Outdoors,Outdoor Gear,Mirello,68.85,41.51,0.3971,0.07
+P00032,Lumex Elite Dog Supplies,Pet Supplies,Dog Supplies,Lumex,49.32,30.65,0.3785,0.035
+P00033,Brivon Elite Small Appliances,Home & Kitchen,Small Appliances,Brivon,46.97,35.37,0.2469,0.055
+P00034,Kentra Prime Bags,Fashion,Bags,Kentra,57.7,37.15,0.3561,0.13
+P00035,Calibre Lite T-Shirts,Fashion,T-Shirts,Calibre,19.79,10.74,0.4571,0.13
+P00036,Mirello Flex Cookware,Home & Kitchen,Cookware,Mirello,52.02,36.44,0.2995,0.055
+P00037,Kentra Comfort Speakers,Electronics,Speakers,Kentra,121.23,94.17,0.2233,0.085
+P00038,Velto Max T-Shirts,Fashion,T-Shirts,Velto,41.02,21.98,0.4642,0.13
+P00039,Torven Flex Storage,Home & Kitchen,Storage,Torven,22.87,13.86,0.394,0.055
+P00040,Brivon Classic Camping,Sports & Outdoors,Camping,Brivon,33.28,18.74,0.4368,0.07
+P00041,Lumex Pro T-Shirts,Fashion,T-Shirts,Lumex,64.59,34.83,0.4608,0.13
+P00042,Mirello Lite Chairs,Office,Chairs,Mirello,11.81,7.92,0.3293,0.04
+P00043,Kentra Flex Outdoor Gear,Sports & Outdoors,Outdoor Gear,Kentra,43.94,31.09,0.2925,0.07
+P00044,Zenvia Classic Drinkware,Home & Kitchen,Drinkware,Zenvia,34.3,24.31,0.2912,0.055
+P00045,Mirello Max Organizers,Office,Organizers,Mirello,32.91,22.59,0.3137,0.04
+P00046,Tekaro Comfort Chairs,Office,Chairs,Tekaro,61.61,46.24,0.2494,0.04
+P00047,Kentra Max T-Shirts,Fashion,T-Shirts,Kentra,24.25,15.54,0.3592,0.13
+P00048,Mavix Plus Bedding,Home & Kitchen,Bedding,Mavix,53.02,38.25,0.2786,0.055
+P00049,Nexora Max Running,Sports & Outdoors,Running,Nexora,22.07,15.7,0.2884,0.07
+P00050,Mavix Elite Speakers,Electronics,Speakers,Mavix,94.48,65.24,0.3094,0.085
+P00051,Lumex Flex Storage, Home & Kitchen ,Storage,Lumex,62.49,37.69,0.3969,0.055
+P00052,Kentra Essential Mice,Electronics,Mice,Kentra,58.43,43.88,0.249,0.085
+P00053,Brivon Comfort Camping,Sports & Outdoors,Camping,Brivon,32.29,17.69,0.4522,0.07
+P00054,Solara Elite Fitness,Sports & Outdoors,Fitness,Solara,36.96,24.86,0.3273,0.07
+P00055,Avero Elite Cycling,Sports & Outdoors,Cycling,Avero,66.17,37.78,0.4291,0.07
+P00056,Torven Plus Fitness,Sports & Outdoors,Fitness,Torven,71.1,40.63,0.4286,0.07
+P00057,Brivon Prime Bags,Fashion,Bags,Brivon,38.99,20.26,0.4805,0.13
+P00058,Nexora Elite Hair Care,Beauty,Hair Care,Nexora,23.26,14.07,0.3951,0.045
+P00059,Orbito Plus Smart Watches,Electronics,Smart Watches,Orbito,70.53,54.6,0.2258,0.085
+P00060,Lumex Prime Speakers,Electronics,Speakers,Lumex,152.13,103.63,0.3188,0.085
+P00061,Calibre Classic Running,Sports & Outdoors,Running,Calibre,74.62,42.53,0.43,0.07
+P00062,Orbito Max Accessories,Fashion,Accessories,Orbito,48.46,22.63,0.533,0.13
+P00063,Brivon Lite Hair Care,Beauty,Hair Care,Brivon,31.43,12.16,0.6132,0.045
+P00064,Calibre Classic Yoga,Sports & Outdoors,Yoga,Calibre,14.14,9.1,0.3567,0.07
+P00065,Kentra Prime Hair Care,Beauty,Hair Care,Kentra,28.76,17.21,0.4015,0.045
+P00066,Nexora Elite Skincare,Beauty,Skincare,Nexora,32.07,16.45,0.4871,0.045
+P00067,Tekaro Flex Grooming,Beauty,Grooming,Tekaro,21.6,12.57,0.4178,0.045
+P00068,Kentra Max Storage,Home & Kitchen,Storage,Kentra,107.44,77.43,0.2794,0.055
+P00069,Torven Max Mice,Electronics,Mice,Torven,44.36,34.7,0.2178,0.085
+P00070,Nexora Plus T-Shirts,Fashion,T-Shirts,Nexora,44.69,28.4,0.3646,0.13
+P00071,Brivon Comfort Cookware,Home & Kitchen,Cookware,Brivon,52.15,34.59,0.3367,0.055
+P00072,Calibre Comfort Shoes,Fashion,Shoes,Calibre,61.72,28.75,0.5341,0.13
+P00073,Calibre Plus Organizers,Office,Organizers,Calibre,63.59,45.62,0.2826,0.04
+P00074,Tekaro Elite Cookware,home & kitchen,Cookware,Tekaro,126.74,86.33,0.3188,0.055
+P00075,Kentra Lite Speakers,Electronics,Speakers,Kentra,75.87,55.66,0.2665,0.085
+P00076,Nexora Comfort Storage,Home & Kitchen,Storage,Nexora,87.31,56.09,0.3576,0.055
+P00077,Mavix Elite Cookware,Home & Kitchen,Cookware,Mavix,70.35,44.32,0.3699,0.055
+P00078,Calibre Plus Camping,Sports & Outdoors,Camping,Calibre,45.48,31.58,0.3057,0.07
+P00079,Solara Elite Makeup,Beauty,Makeup,Solara,30.67,15.27,0.502,0.045
+P00080,Solara Lite Cycling,Sports & Outdoors,Cycling,Solara,13.59,8.66,0.3624,0.07
+P00081,Mavix Pro Outdoor Gear,Sports & Outdoors,Outdoor Gear,Mavix,60.43,37.31,0.3827,0.07
+P00082,Brivon Elite Jeans,Fashion,Jeans,Brivon,45.92,29.31,0.3617,0.13
+P00083,Solara Prime Desk Accessories, Office ,Desk Accessories,Solara,31.41,21.81,0.3056,0.04
+P00084,Novexa Prime Headphones, Electronics ,Headphones,Novexa,105.24,75.39,0.2837,0.085
+P00085,Mavix Prime Speakers,Electronics,Speakers,Mavix,79.47,54.28,0.317,0.085
+P00086,Novexa Comfort Mice,Electronics,Mice,Novexa,186.84,133.4,0.286,0.085
+P00087,Torven Comfort Outdoor Gear,Sports & Outdoors,Outdoor Gear,Torven,34.99,22.72,0.3508,0.07
+P00088,Solara Lite Bags,Fashion,Bags,Solara,49.89,23.97,0.5194,0.13
+P00089,Velto Classic Mice,Electronics,Mice,Velto,37.77,30.18,0.201,0.085
+P00090,Velto Flex Jeans,Fashion,Jeans,Velto,48.69,23.28,0.5219,0.13
+P00091,Orbito Flex Power Banks,Electronics,Power Banks,Orbito,214.87,143.33,0.333,0.085
+P00092,Orbito Max Fitness,Sports & Outdoors,Fitness,Orbito,110.71,74.69,0.3254,0.07
+P00093,Mirello Flex Jeans,Fashion,Jeans,Mirello,56.83,27.68,0.5129,0.13
+P00094,Calibre Plus Jeans,Fashion,Jeans,Calibre,72.73,39.27,0.46,0.13
+P00095,Orbito Prime Bedding,Home & Kitchen,Bedding,Orbito,35.22,25.96,0.2629,0.055
+P00096,Mavix Lite Makeup,Beauty,Makeup,Mavix,17.02,10.27,0.3968,0.045
+P00097,Novexa Pro Jeans, Fashion ,Jeans,Novexa,29.2,13.5,0.5375,0.13
+P00098,Kentra Classic Keyboards,Electronics,Keyboards,Kentra,64.85,50.68,0.2185,0.085
+P00099,Nexora Prime Smart Watches,Electronics,Smart Watches,Nexora,76.06,57.6,0.2427,0.085
+P00100,Nexora Pro Cat Supplies,Pet Supplies,Cat Supplies,Nexora,25.2,16.06,0.3628,0.035
+P00101,Lumex Flex Cat Supplies,Pet Supplies,Cat Supplies,Lumex,32.88,21.02,0.3606,0.035
+P00102,Avero Elite Cycling,Sports & Outdoors,Cycling,Avero,24.1,14.1,0.415,0.07
+P00103,Solara Comfort Bedding,Home & Kitchen,Bedding,Solara,40.33,24.36,0.3961,0.055
+P00104,Calibre Elite Toys,Pet Supplies,Toys,Calibre,7.45,3.89,0.478,0.035
+P00105,Novexa Prime Running,Sports & Outdoors,Running,Novexa,83.49,59.66,0.2854,0.07
+P00106,Solara Lite Fitness,Sports & Outdoors,Fitness,Solara,19.66,12.51,0.3639,0.07
+P00107,Brivon Elite Jackets,Fashion,Jackets,Brivon,76.19,34.86,0.5424,0.13
+P00108,Lumex Flex Cookware,Home & Kitchen,Cookware,Lumex,30.18,18.63,0.3827,0.055
+P00109,Torven Plus Power Banks,Electronics,Power Banks,Torven,165.54,112.17,0.3224,0.085
+P00110,Calibre Comfort Cat Supplies,Pet Supplies,Cat Supplies,Calibre,28.58,18.47,0.3536,0.035
+P00111,Torven Comfort Shoes,fashion,Shoes,Torven,21.98,11.47,0.4781,0.13
+P00112,Novexa Essential Storage,home & kitchen,Storage,Novexa,55.53,40.25,0.2751,0.055
+P00113,Torven Essential Lighting,Home & Kitchen,Lighting,Torven,39.43,24.05,0.3901,0.055
+P00114,Velto Flex Fragrance,Beauty,Fragrance,Velto,19.86,11.48,0.4221,0.045
+P00115,Velto Pro Speakers,Electronics,Speakers,Velto,70.13,55.94,0.2024,0.085
+P00116,Torven Pro Organizers,Office,Organizers,Torven,21.52,15.87,0.2623,0.04
+P00117,Torven Elite Cycling,Sports & Outdoors,Cycling,Torven,55.27,35.83,0.3517,0.07
+P00118,Tekaro Prime Cycling,Sports & Outdoors,Cycling,Tekaro,51.97,30.27,0.4174,0.07
+P00119,Kentra Comfort Shoes,Fashion,Shoes,Kentra,25.47,15.31,0.399,0.13
+P00120,Mirello Essential Skincare,Beauty,Skincare,Mirello,43.8,16.71,0.6186,0.045
+P00121,Velto Prime Hair Care,Beauty,Hair Care,Velto,25.73,10.95,0.5744,0.045
+P00122,Nexora Classic Skincare,Beauty,Skincare,Nexora,26.13,11.51,0.5593,0.045
+P00123,Nexora Lite Smart Watches,Electronics,Smart Watches,Nexora,53.71,40.52,0.2456,0.085
+P00124,Novexa Comfort Jackets,Fashion,Jackets,Novexa,25.97,13.05,0.4977,0.13
+P00125,Torven Pro Headphones,Electronics,Headphones,Torven,102.56,77.48,0.2445,0.085
+P00126,Lumex Prime Accessories,Fashion,Accessories,Lumex,99.64,48.04,0.5179,0.13
+P00127,Lumex Plus Small Appliances,Home & Kitchen,Small Appliances,Lumex,82.1,59.43,0.2761,0.055
+P00128,Nexora Prime Smart Watches,Electronics,Smart Watches,Nexora,154.16,119.27,0.2263,0.085
+P00129,Mirello Comfort Smart Watches,Electronics,Smart Watches,Mirello,70.4,54.73,0.2226,0.085
+P00130,Avero Elite Hair Care,Beauty,Hair Care,Avero,27.04,15.89,0.4124,0.045
+P00131,Mavix Comfort Mice,Electronics,Mice,Mavix,280.0,191.67,0.3155,0.085
+P00132,Novexa Comfort Cat Supplies,Pet Supplies,Cat Supplies,Novexa,18.25,12.18,0.3324,0.035
+P00133,Novexa Comfort Makeup,Beauty,Makeup,Novexa,46.79,18.71,0.6002,0.045
+P00134,Solara Essential Small Appliances,Home & Kitchen,Small Appliances,Solara,16.18,11.64,0.281,0.055
+P00135,Mirello Max Grooming,Beauty,Grooming,Mirello,15.92,7.51,0.5285,0.045
+P00136,Nexora Elite Power Banks,Electronics,Power Banks,Nexora,83.03,57.71,0.3049,0.085
+P00137,Zenvia Plus Dog Supplies,Pet Supplies,Dog Supplies,Zenvia,39.82,20.89,0.4753,0.035
+P00138,Nexora Prime Shoes,Fashion,Shoes,Nexora,25.27,11.66,0.5387,0.13
+P00139,Orbito Classic Running,Sports & Outdoors,Running,Orbito,68.79,47.1,0.3153,0.07
+P00140,Calibre Classic Mice,Electronics,Mice,Calibre,79.3,57.63,0.2732,0.085
+P00141,Novexa Prime Bags,Fashion,Bags,Novexa,39.0,23.14,0.4067,0.13
+P00142,Novexa Plus Bags,Fashion,Bags,Novexa,41.19,21.82,0.4703,0.13
+P00143,Novexa Flex Cat Supplies,Pet Supplies,Cat Supplies,Novexa,11.64,6.47,0.4444,0.035
+P00144,Kentra Comfort Grooming,Beauty,Grooming,Kentra,80.7,43.22,0.4645,0.045
+P00145,Solara Max Shoes,Fashion,Shoes,Solara,83.74,52.63,0.3716,0.13
+P00146,Solara Prime Bedding,Home & Kitchen,Bedding,Solara,46.52,32.97,0.2911,0.055
+P00147,Kentra Prime Lighting,Home & Kitchen,Lighting,Kentra,22.64,13.61,0.399,0.055
+P00148,Velto Comfort Jeans,Fashion,Jeans,Velto,44.22,25.32,0.4275,0.13
+P00149,Tekaro Lite Jeans,Fashion,Jeans,Tekaro,35.34,22.77,0.3556,0.13
+P00150,Tekaro Lite Smart Watches,Electronics,Smart Watches,Tekaro,52.74,38.49,0.2702,0.085
+P00151,Avero Prime Chairs, Office ,Chairs,Avero,48.09,30.02,0.3757,0.04
+P00152,Mirello Essential Desk Accessories, Office ,Desk Accessories,Mirello,33.83,20.63,0.3901,0.04
+P00153,Novexa Pro Keyboards,Electronics,Keyboards,Novexa,78.02,53.16,0.3187,0.085
+P00154,Brivon Max Fragrance,Beauty,Fragrance,Brivon,29.87,16.97,0.4318,0.045
+P00155,Novexa Lite Keyboards,Electronics,Keyboards,Novexa,243.57,190.74,0.2169,0.085
+P00156,Lumex Comfort Fitness,Sports & Outdoors,Fitness,Lumex,30.93,18.41,0.4049,0.07
+P00157,Novexa Plus Bedding,Home & Kitchen,Bedding,Novexa,51.7,34.86,0.3257,0.055
+P00158,Avero Flex Cycling,Sports & Outdoors,Cycling,Avero,57.75,39.95,0.3083,0.07
+P00159,Calibre Plus Outdoor Gear,Sports & Outdoors,Outdoor Gear,Calibre,18.45,11.44,0.3799,0.07
+P00160,Zenvia Elite Fitness,Sports & Outdoors,Fitness,Zenvia,32.58,18.19,0.4415,0.07
+P00161,Orbito Plus Power Banks,Electronics,Power Banks,Orbito,109.91,86.4,0.2139,0.085
+P00162,Avero Elite Dog Supplies,Pet Supplies,Dog Supplies,Avero,13.7,9.39,0.3143,0.035
+P00163,Lumex Prime Cookware,Home & Kitchen,Cookware,Lumex,48.56,29.68,0.3889,0.055
+P00164,Mavix Flex Mice,Electronics,Mice,Mavix,86.47,62.18,0.2809,0.085
+P00165,Tekaro Lite Hair Care,Beauty,Hair Care,Tekaro,25.03,11.24,0.5511,0.045
+P00166,Lumex Plus Jackets,Fashion,Jackets,Lumex,73.94,40.11,0.4576,0.13
+P00167,Novexa Prime Chairs,Office,Chairs,Novexa,37.91,28.52,0.2476,0.04
+P00168,Torven Comfort Stationery,Office,Stationery,Torven,45.29,32.63,0.2794,0.04
+P00169,Calibre Pro Lighting,Home & Kitchen,Lighting,Calibre,35.85,22.31,0.3777,0.055
+P00170,Tekaro Elite Cat Supplies,Pet Supplies,Cat Supplies,Tekaro,38.39,21.59,0.4378,0.035
+P00171,Orbito Classic Cookware,Home & Kitchen,Cookware,Orbito,36.03,25.5,0.2922,0.055
+P00172,Nexora Comfort Shoes,Fashion,Shoes,Nexora,105.75,53.89,0.4904,0.13
+P00173,Nexora Max Small Appliances,Home & Kitchen,Small Appliances,Nexora,27.38,17.48,0.3615,0.055
+P00174,Avero Lite Grooming,Pet Supplies,Grooming,Avero,15.97,9.75,0.3894,0.035
+P00175,Lumex Flex Keyboards,Electronics,Keyboards,Lumex,122.22,91.59,0.2506,0.085
+P00176,Torven Lite Power Banks,Electronics,Power Banks,Torven,68.29,47.69,0.3017,0.085
+P00177,Solara Elite Shoes,Fashion,Shoes,,81.08,35.4,0.5634,0.13
+P00178,Torven Prime Pet Beds,Pet Supplies,Pet Beds,Torven,28.25,16.37,0.4204,0.035
+P00179,Lumex Max Desk Accessories,Office,Desk Accessories,Lumex,37.64,26.09,0.3067,0.04
+P00180,Torven Elite Outdoor Gear,Sports & Outdoors,Outdoor Gear,Torven,70.02,44.88,0.359,0.07
+P00181,Mavix Plus Chairs,Office,Chairs,Mavix,41.3,30.6,0.259,0.04
+P00182,Kentra Prime Desk Accessories,Office,Desk Accessories,Kentra,35.93,25.23,0.2978,0.04
+P00183,Novexa Elite Shoes,Fashion,Shoes,Novexa,42.31,21.96,0.4811,0.13
+P00184,Mavix Comfort Cookware,Home & Kitchen,Cookware,Mavix,36.07,26.32,0.2701,0.055
+P00185,Orbito Pro Camping,Sports & Outdoors,Camping,Orbito,44.8,29.2,0.3483,0.07
+P00186,Torven Max Yoga,Sports & Outdoors,Yoga,Torven,21.65,12.08,0.4421,0.07
+P00187,Novexa Flex T-Shirts,Fashion,T-Shirts,Novexa,75.49,31.72,0.5797,0.13
+P00188,Zenvia Pro Smart Watches,Electronics,Smart Watches,Zenvia,94.64,73.81,0.2201,0.085
+P00189,Brivon Plus Running,Sports & Outdoors,Running,Brivon,69.28,37.54,0.4582,0.07
+P00190,Mavix Elite Lighting,Home & Kitchen,Lighting,Mavix,41.33,25.01,0.3948,0.055
+P00191,Velto Pro Cat Supplies,Pet Supplies,Cat Supplies,Velto,34.34,18.32,0.4666,0.035
+P00192,Mavix Elite Storage,Home & Kitchen,Storage,Mavix,68.45,39.88,0.4174,0.055
+P00193,Mirello Essential Speakers,Electronics,Speakers,Mirello,117.11,90.99,0.2231,0.085
+P00194,Nexora Max Stationery,Office,Stationery,Nexora,43.45,29.51,0.3209,0.04
+P00195,Tekaro Flex Mice,Electronics,Mice,Tekaro,74.47,52.14,0.2999,0.085
+P00196,Mavix Plus Keyboards,Electronics,Keyboards,Mavix,64.23,51.36,0.2004,0.085
+P00197,Calibre Plus Makeup,Beauty,Makeup,Calibre,15.29,8.64,0.4347,0.045
+P00198,Torven Classic Organizers,Office,Organizers,Torven,21.8,16.92,0.2238,0.04
+P00199,Nexora Comfort Cookware,Home & Kitchen,Cookware,Nexora,51.57,36.64,0.2895,0.055
+P00200,Calibre Essential Cookware,Home & Kitchen,Cookware,Calibre,57.55,37.72,0.3447,0.055
+P00201,Calibre Pro Fitness,Sports & Outdoors,Fitness,Calibre,61.33,37.7,0.3852,0.07
+P00202,Mavix Flex Pet Beds,Pet Supplies,Pet Beds,Mavix,15.77,10.81,0.3144,0.035
+P00203,Mirello Max Shoes,Fashion,Shoes,Mirello,52.58,32.02,0.3911,0.13
+P00204,Mirello Pro Speakers,Electronics,Speakers,Mirello,70.81,56.36,0.204,0.085
+P00205,Tekaro Elite Power Banks, Electronics ,Power Banks,Tekaro,63.41,45.91,0.2759,0.085
+P00206,Mirello Lite Small Appliances,Home & Kitchen,Small Appliances,Mirello,20.41,14.41,0.294,0.055
+P00207,Kentra Plus Power Banks,Electronics,Power Banks,Kentra,40.25,32.71,0.1874,0.085
+P00208,Orbito Lite Cycling,Sports & Outdoors,Cycling,Orbito,41.83,30.39,0.2735,0.07
+P00209,Tekaro Max Mice,Electronics,Mice,Tekaro,51.84,36.07,0.3043,0.085
+P00210,Calibre Lite Bags,Fashion,Bags,Calibre,62.55,39.18,0.3736,0.13
+P00211,Tekaro Flex Running,Sports & Outdoors,Running,Tekaro,19.47,14.06,0.2781,0.07
+P00212,Lumex Plus Hair Care,Beauty,Hair Care,Lumex,13.72,7.14,0.4793,0.045
+P00213,Calibre Comfort Cookware,Home & Kitchen,Cookware,Calibre,36.21,26.21,0.2762,0.055
+P00214,Solara Elite Printers,Office,Printers,Solara,34.01,20.86,0.3865,0.04
+P00215,Avero Plus Running,Sports & Outdoors,Running,Avero,54.9,29.96,0.4543,0.07
+P00216,Novexa Essential Outdoor Gear,Sports & Outdoors,Outdoor Gear,Novexa,36.16,22.62,0.3746,0.07
+P00217,Calibre Lite Headphones,Electronics,Headphones,Calibre,142.95,103.16,0.2784,0.085
+P00218,Tekaro Prime Keyboards,Electronics,Keyboards,Tekaro,132.72,105.57,0.2046,0.085
+P00219,Lumex Max Grooming,Pet Supplies,Grooming,Lumex,40.78,21.62,0.4698,0.035
+P00220,Mirello Elite Jackets,Fashion,Jackets,Mirello,47.79,27.63,0.4218,0.13
+P00221,Zenvia Classic Cookware,home & kitchen,Cookware,Zenvia,68.63,50.0,0.2715,0.055
+P00222,Solara Prime Jeans,Fashion,Jeans,,40.85,17.7,0.5668,0.13
+P00223,Velto Plus Fitness,Sports & Outdoors,Fitness,Velto,105.76,69.6,0.3419,0.07
+P00224,Solara Elite Toys,Pet Supplies,Toys,Solara,18.94,10.92,0.4237,0.035
+P00225,Velto Max Cookware,Home & Kitchen,Cookware,Velto,26.75,15.57,0.4177,0.055
+P00226,Calibre Classic Dog Supplies,Pet Supplies,Dog Supplies,Calibre,11.41,6.45,0.4348,0.035
+P00227,Lumex Plus Smart Watches,Electronics,Smart Watches,Lumex,205.87,143.99,0.3006,0.085
+P00228,Zenvia Max Hair Care,Beauty,Hair Care,Zenvia,12.39,5.17,0.583,0.045
+P00229,Calibre Pro Hair Care,Beauty,Hair Care,Calibre,41.48,16.23,0.6087,0.045
+P00230,Zenvia Lite Mice,Electronics,Mice,Zenvia,64.27,43.6,0.3216,0.085
+P00231,Nexora Plus Smart Watches,Electronics,Smart Watches,Nexora,75.23,53.41,0.29,0.085
+P00232,Velto Lite T-Shirts,Fashion,T-Shirts,Velto,54.54,33.7,0.3822,0.13
+P00233,Mavix Lite Grooming,Pet Supplies,Grooming,Mavix,23.1,14.88,0.3559,0.035
+P00234,Orbito Comfort Skincare,Beauty,Skincare,Orbito,59.15,31.37,0.4697,0.045
+P00235,Lumex Classic Grooming,Pet Supplies,Grooming,Lumex,28.33,18.42,0.3497,0.035
+P00236,Avero Classic Chairs,Office,Chairs,Avero,38.93,24.69,0.3659,0.04
+P00237,Solara Comfort Accessories,Fashion,Accessories,Solara,34.4,22.18,0.355,0.13
+P00238,Novexa Plus Running,Sports & Outdoors,Running,Novexa,36.38,23.65,0.35,0.07
+P00239,Novexa Elite Headphones,Electronics,Headphones,Novexa,106.94,87.31,0.1836,0.085
+P00240,Novexa Prime Mice,Electronics,MICE,Novexa,87.04,67.41,0.2256,0.085
+P00241,Tekaro Prime Chairs, Office ,Chairs,Tekaro,28.39,17.13,0.3966,0.04
+P00242,Brivon Plus Desk Accessories,Office,Desk Accessories,Brivon,26.72,18.21,0.3185,0.04
+P00243,Kentra Essential Drinkware,Home & Kitchen,Drinkware,Kentra,77.03,58.31,0.2429,0.055
+P00244,Avero Lite Jackets,Fashion,Jackets,Avero,83.64,48.14,0.4245,0.13
+P00245,Torven Pro Skincare,Beauty,Skincare,Torven,37.08,21.83,0.4114,0.045
+P00246,Novexa Max Desk Accessories,Office,Desk Accessories,Novexa,73.75,54.0,0.2678,0.04
+P00247,Lumex Prime Skincare,Beauty,Skincare,Lumex,35.82,14.21,0.6032,0.045
+P00248,Mirello Max Shoes,Fashion,Shoes,Mirello,34.33,20.27,0.4095,0.13
+P00249,Calibre Lite Bags,Fashion,Bags,Calibre,25.26,14.8,0.4143,0.13
+P00250,Mirello Elite Accessories,Fashion,Accessories,Mirello,53.73,28.37,0.4721,0.13
+P00251,Nexora Lite Camping,Sports & Outdoors,Camping,Nexora,69.13,50.06,0.2759,0.07
+P00252,Mavix Plus Stationery,Office,STATIONERY,Mavix,50.23,33.03,0.3424,0.04
+P00253,Zenvia Lite Shoes,Fashion,Shoes,Zenvia,55.93,31.79,0.4317,0.13
+P00254,Tekaro Classic Bedding,Home & Kitchen,Bedding,Tekaro,110.09,74.43,0.324,0.055
+P00255,Calibre Essential Cookware,Home & Kitchen,Cookware,Calibre,62.56,45.14,0.2785,0.055
+P00256,Brivon Lite Outdoor Gear,Sports & Outdoors,Outdoor Gear,Brivon,31.0,22.4,0.2774,0.07
+P00257,Lumex Classic Chairs,Office,Chairs,Lumex,130.44,84.2,0.3545,0.04
+P00258,Velto Comfort Headphones,Electronics,HEADPHONES,Velto,108.77,72.89,0.3299,0.085
+P00259,Zenvia Lite Headphones,Electronics,Headphones,Zenvia,51.16,33.83,0.3388,0.085
+P00260,Calibre Max Hair Care,Beauty,Hair Care,Calibre,31.17,15.44,0.5046,0.045
+P00261,Nexora Essential Power Banks,Electronics,Power Banks,Nexora,129.14,105.6,0.1823,0.085
+P00262,Torven Plus Printers, Office ,Printers,Torven,33.01,25.51,0.2271,0.04
+P00263,Velto Classic Drinkware,Home & Kitchen,Drinkware,Velto,41.32,31.16,0.2459,0.055
+P00264,Mavix Classic Smart Watches,Electronics,Smart Watches,Mavix,46.9,35.62,0.2406,0.085
+P00265,Kentra Comfort Toys,Pet Supplies,Toys,Kentra,17.02,11.61,0.3179,0.035
+P00266,Brivon Elite Headphones,Electronics,Headphones,Brivon,49.78,34.8,0.3011,0.085
+P00267,Mirello Elite Bedding,Home & Kitchen,Bedding,Mirello,44.53,29.58,0.3357,0.055
+P00268,Novexa Flex Smart Watches,Electronics,Smart Watches,Novexa,103.27,72.05,0.3024,0.085
+P00269,Mirello Prime Keyboards,Electronics,Keyboards,Mirello,120.94,84.33,0.3027,0.085
+P00270,Solara Essential Power Banks,Electronics,Power Banks,Solara,123.8,83.11,0.3287,0.085
+P00271,Torven Pro Speakers,Electronics,Speakers,Torven,93.91,75.6,0.1949,0.085
+P00272,Novexa Prime Mice,Electronics,Mice,Novexa,118.41,82.51,0.3032,0.085
+P00273,Tekaro Prime Power Banks,Electronics,Power Banks,Tekaro,52.22,42.01,0.1957,0.085
+P00274,Tekaro Lite Hair Care,Beauty,Hair Care,Tekaro,32.86,20.04,0.3902,0.045
+P00275,Velto Essential Cycling,Sports & Outdoors,Cycling,Velto,64.04,41.58,0.3508,0.07
+P00276,Mirello Lite Accessories,Fashion,Accessories,Mirello,51.42,22.85,0.5556,0.13
+P00277,Orbito Lite Drinkware,Home & Kitchen,Drinkware,Orbito,47.41,32.47,0.3152,0.055
+P00278,Novexa Classic Jeans,Fashion,Jeans,Novexa,48.38,29.76,0.3849,0.13
+P00279,Brivon Elite Organizers,Office,Organizers,Brivon,43.6,27.54,0.3683,0.04
+P00280,Solara Elite Stationery,Office,Stationery,Solara,103.24,65.95,0.3612,0.04
+P00281,Calibre Max Mice,Electronics,Mice,Calibre,71.42,52.55,0.2642,0.085
+P00282,Orbito Pro Storage,Home & Kitchen,STORAGE,Orbito,53.65,35.13,0.3451,0.055
+P00283,Mirello Classic Cookware,Home & Kitchen,Cookware,Mirello,156.92,103.33,0.3415,0.055
+P00284,Nexora Flex Drinkware,Home & Kitchen,Drinkware,Nexora,34.01,22.18,0.3476,0.055
+P00285,Lumex Essential Skincare,Beauty,Skincare,Lumex,29.19,16.29,0.4421,0.045
+P00286,Velto Flex Shoes,Fashion,Shoes,Velto,33.47,14.54,0.5655,0.13
+P00287,Nexora Classic Smart Watches,Electronics,Smart Watches,Nexora,97.17,70.54,0.274,0.085
+P00288,Zenvia Plus Bags,Fashion,Bags,Zenvia,35.05,21.52,0.3859,0.13
+P00289,Torven Pro Bags,Fashion,Bags,Torven,63.58,28.57,0.5507,0.13
+P00290,Mirello Plus Keyboards,Electronics,Keyboards,Mirello,109.85,88.53,0.194,0.085
+P00291,Mirello Classic Chairs,Office,Chairs,Mirello,25.86,18.71,0.2766,0.04
+P00292,Orbito Plus Keyboards,Electronics,Keyboards,Orbito,51.52,38.81,0.2466,0.085
+P00293,Mirello Comfort Pet Beds,Pet Supplies,Pet Beds,Mirello,26.3,14.7,0.4411,0.035
+P00294,Lumex Classic Headphones,Electronics,Headphones,Lumex,109.75,78.51,0.2846,0.085
+P00295,Tekaro Flex Chairs,office,Chairs,Tekaro,15.59,9.5,0.391,0.04
+P00296,Calibre Classic Grooming,Pet Supplies,Grooming,Calibre,25.89,17.42,0.3273,0.035
+P00297,Kentra Flex Toys,Pet Supplies,Toys,Kentra,32.89,21.07,0.3594,0.035
+P00298,Tekaro Classic Desk Accessories,Office,Desk Accessories,Tekaro,23.0,16.89,0.2658,0.04
+P00299,Nexora Classic Camping,Sports & Outdoors,Camping,Nexora,47.38,28.94,0.3891,0.07
+P00300,Torven Prime Hair Care,Beauty,Hair Care,Torven,19.12,9.4,0.5081,0.045
+P00301,Kentra Pro Fitness,Sports & Outdoors,Fitness,Kentra,67.45,36.86,0.4536,0.07
+P00302,Kentra Essential Mice,Electronics,Mice,Kentra,68.14,47.22,0.307,0.085
+P00303,Mavix Flex Bags,Fashion,Bags,Mavix,69.92,29.58,0.5769,0.13
+P00304,Avero Plus Jackets,Fashion,Jackets,Avero,109.06,56.79,0.4793,0.13
+P00305,Novexa Flex Organizers,Office,Organizers,Novexa,34.5,22.42,0.3502,0.04
+P00306,Mavix Prime Accessories,Fashion,Accessories,Mavix,51.08,26.0,0.4909,0.13
+P00307,Calibre Essential Shoes,Fashion,Shoes,Calibre,29.87,19.16,0.3584,0.13
+P00308,Novexa Comfort Makeup,Beauty,Makeup,Novexa,35.78,14.79,0.5865,0.045
+P00309,Mavix Prime Bedding,Home & Kitchen,Bedding,Mavix,28.62,20.0,0.301,0.055
+P00310,Solara Flex Power Banks,Electronics,Power Banks,Solara,55.22,44.45,0.195,0.085
+P00311,Novexa Plus Bags,Fashion,Bags,Novexa,32.64,19.02,0.4172,0.13
+P00312,Velto Classic Accessories,Fashion,Accessories,Velto,34.09,17.37,0.4904,0.13
+P00313,Orbito Comfort Lighting,Home & Kitchen,Lighting,Orbito,35.15,22.11,0.3711,0.055
+P00314,Torven Elite T-Shirts,Fashion,T-Shirts,Torven,47.8,23.05,0.5178,0.13
+P00315,Novexa Flex Jeans,Fashion,Jeans,Novexa,66.38,35.73,0.4618,0.13
+P00316,Brivon Lite Bedding,home & kitchen,Bedding,Brivon,27.3,18.18,0.3339,0.055
+P00317,Brivon Flex Jeans,Fashion,Jeans,Brivon,62.77,26.44,0.5789,0.13
+P00318,Novexa Classic Fitness,Sports & Outdoors,Fitness,Novexa,54.68,38.04,0.3043,0.07
+P00319,Orbito Flex Cookware,Home & Kitchen,Cookware,Orbito,61.11,38.04,0.3775,0.055
+P00320,Torven Essential Pet Beds,Pet Supplies,Pet Beds,Torven,20.93,14.51,0.3065,0.035
+P00321,Mavix Classic Dog Supplies,Pet Supplies,Dog Supplies,Mavix,38.66,25.03,0.3525,0.035
+P00322,Lumex Max Accessories,Fashion,Accessories,Lumex,27.56,16.66,0.3956,0.13
+P00323,Solara Classic Bedding,Home & Kitchen,Bedding,Solara,81.03,56.09,0.3078,0.055
+P00324,Lumex Comfort Bags,Fashion,Bags,Lumex,55.49,30.6,0.4485,0.13
+P00325,Mirello Comfort Stationery,Office,Stationery,Mirello,100.47,68.1,0.3222,0.04
+P00326,Solara Prime Fitness,Sports & Outdoors,Fitness,Solara,62.82,45.03,0.2831,0.07
+P00327,Orbito Elite Printers,Office,Printers,Orbito,60.9,46.78,0.232,0.04
+P00328,Orbito Essential Accessories,Fashion,Accessories,Orbito,34.96,22.01,0.3705,0.13
+P00329,Avero Lite Grooming,beauty,Grooming,Avero,18.47,10.41,0.4363,0.045
+P00330,Mirello Lite Lighting,Home & Kitchen,Lighting,Mirello,54.88,33.85,0.3832,0.055
+P00331,Solara Max Fitness,Sports & Outdoors,Fitness,Solara,91.86,64.44,0.2985,0.07
+P00332,Lumex Flex Drinkware,Home & Kitchen,Drinkware,Lumex,52.7,35.52,0.326,0.055
+P00333,Tekaro Flex Fitness, Sports & Outdoors ,Fitness,Tekaro,60.59,41.2,0.32,0.07
+P00334,Velto Lite Chairs,Office,Chairs,Velto,98.55,67.62,0.3139,0.04
+P00335,Orbito Flex Keyboards,Electronics,Keyboards,Orbito,139.76,109.0,0.2201,0.085
+P00336,Velto Comfort Hair Care,Beauty,Hair Care,Velto,34.78,14.29,0.5893,0.045
+P00337,Nexora Essential Mice,Electronics,Mice,Nexora,131.2,89.79,0.3156,0.085
+P00338,Lumex Essential Camping,Sports & Outdoors,Camping,Lumex,57.78,42.08,0.2716,0.07
+P00339,Novexa Classic Smart Watches,Electronics,Smart Watches,Novexa,280.0,227.59,0.1872,0.085
+P00340,Kentra Prime Grooming,Pet Supplies,Grooming,Kentra,37.56,21.84,0.4184,0.035
+P00341,Kentra Plus Speakers,Electronics,Speakers,Kentra,76.86,55.7,0.2752,0.085
+P00342,Solara Plus Toys,Pet Supplies,Toys,Solara,23.73,15.71,0.3379,0.035
+P00343,Brivon Comfort Stationery,Office,Stationery,Brivon,48.34,30.81,0.3626,0.04
+P00344,Velto Pro Fragrance,Beauty,Fragrance,Velto,30.13,12.85,0.5734,0.045
+P00345,Brivon Max Running,Sports & Outdoors,Running,Brivon,59.45,39.67,0.3327,0.07
+P00346,Solara Lite Printers,Office,Printers,Solara,73.08,44.18,0.3954,0.04
+P00347,Brivon Classic Dog Supplies,Pet Supplies,Dog Supplies,Brivon,80.28,54.47,0.3215,0.035
+P00348,Calibre Elite Storage,Home & Kitchen,Storage,,39.03,29.19,0.2521,0.055
+P00349,Lumex Flex Fragrance,Beauty,Fragrance,Lumex,24.76,10.8,0.5637,0.045
+P00350,Lumex Essential Headphones,Electronics,Headphones,Lumex,71.32,50.2,0.2961,0.085
+P00351,Zenvia Essential Skincare,Beauty,Skincare,Zenvia,28.1,12.32,0.5618,0.045
+P00352,Solara Classic Power Banks,Electronics,Power Banks,Solara,119.4,86.71,0.2738,0.085
+P00353,Zenvia Plus Grooming,Beauty,Grooming,Zenvia,20.91,10.02,0.521,0.045
+P00354,Kentra Elite Fragrance,Beauty,Fragrance,Kentra,45.7,20.04,0.5615,0.045
+P00355,Nexora Classic Jackets,Fashion,Jackets,Nexora,23.21,12.21,0.4741,0.13
+P00356,Solara Lite Jackets,Fashion,Jackets,Solara,29.07,18.57,0.3613,0.13
+P00357,Brivon Comfort Outdoor Gear,Sports & Outdoors,Outdoor Gear,Brivon,66.97,40.52,0.3949,0.07
+P00358,Novexa Comfort Organizers,Office,Organizers,Novexa,40.92,26.1,0.3622,0.04
+P00359,Brivon Plus Accessories,Fashion,Accessories,Brivon,33.18,20.79,0.3733,0.13
+P00360,Brivon Comfort Hair Care,Beauty,Hair Care,Brivon,23.5,9.65,0.5895,0.045
+P00361,Lumex Essential Cat Supplies,Pet Supplies,Cat Supplies,Lumex,52.2,34.23,0.3443,0.035
+P00362,Torven Max Power Banks,Electronics,Power Banks,Torven,137.87,99.96,0.275,0.085
+P00363,Kentra Essential Smart Watches,Electronics,Smart Watches,Kentra,110.4,75.27,0.3183,0.085
+P00364,Orbito Essential Power Banks,Electronics,Power Banks,Orbito,73.74,56.12,0.2389,0.085
+P00365,Nexora Elite Yoga,Sports & Outdoors,Yoga,Nexora,85.58,56.4,0.3409,0.07
+P00366,Torven Plus Accessories,fashion,Accessories,Torven,48.62,28.98,0.404,0.13
+P00367,Kentra Flex Camping,Sports & Outdoors,Camping,Kentra,32.49,21.35,0.3428,0.07
+P00368,Mirello Comfort Yoga,Sports & Outdoors,Yoga,Mirello,33.39,23.67,0.2911,0.07
+P00369,Torven Elite Small Appliances,Home & Kitchen,Small Appliances,Torven,52.63,39.52,0.2492,0.055
+P00370,Torven Max Printers,Office,Printers,Torven,37.21,25.53,0.314,0.04
+P00371,Velto Plus Running,Sports & Outdoors,Running,Velto,74.29,47.19,0.3647,0.07
+P00372,Solara Flex Cookware,Home & Kitchen,Cookware,Solara,37.82,22.27,0.4111,0.055
+P00373,Orbito Comfort Bags,Fashion,Bags,Orbito,40.86,17.72,0.5663,0.13
+P00374,Mirello Lite Small Appliances,Home & Kitchen,Small Appliances,Mirello,38.64,24.9,0.3556,0.055
+P00375,Mavix Prime Power Banks,Electronics,Power Banks,Mavix,36.52,29.38,0.1955,0.085
+P00376,Avero Pro Smart Watches,Electronics,Smart Watches,Avero,46.34,36.91,0.2033,0.085
+P00377,Brivon Classic Toys,Pet Supplies,Toys,Brivon,18.13,12.1,0.3326,0.035
+P00378,Orbito Elite Shoes,Fashion,Shoes,Orbito,65.99,33.39,0.494,0.13
+P00379,Nexora Elite Jackets,Fashion,Jackets,Nexora,56.78,25.12,0.5576,0.13
+P00380,Tekaro Comfort Yoga,Sports & Outdoors,Yoga,Tekaro,52.23,31.97,0.3878,0.07
+P00381,Zenvia Elite Makeup,Beauty,Makeup,Zenvia,24.3,9.48,0.6099,0.045
+P00382,Orbito Essential Pet Beds,Pet Supplies,Pet Beds,Orbito,28.33,17.69,0.3755,0.035
+P00383,Solara Max Yoga,Sports & Outdoors,Yoga,Solara,53.92,34.88,0.353,0.07
+P00384,Mavix Plus Jackets,fashion,Jackets,Mavix,48.94,20.89,0.5731,0.13
+P00385,Orbito Pro Shoes,Fashion,Shoes,Orbito,34.77,18.25,0.475,0.13
+P00386,Orbito Pro Pet Beds,Pet Supplies,Pet Beds,Orbito,24.32,12.4,0.49,0.035
+P00387,Zenvia Pro Running,Sports & Outdoors,Running,Zenvia,65.9,44.82,0.3199,0.07
+P00388,Tekaro Comfort Pet Beds,Pet Supplies,Pet Beds,Tekaro,31.95,18.42,0.4235,0.035
+P00389,Novexa Classic Headphones,Electronics,Headphones,Novexa,98.33,71.13,0.2766,0.085
+P00390,Mavix Comfort Stationery,Office,Stationery,Mavix,27.51,20.96,0.238,0.04
+P00391,Torven Comfort Skincare,Beauty,Skincare,Torven,29.15,14.17,0.5138,0.045
+P00392,Nexora Comfort Power Banks,Electronics,Power Banks,Nexora,159.66,116.99,0.2672,0.085
+P00393,Zenvia Plus Hair Care,Beauty,HAIR CARE,Zenvia,61.48,36.31,0.4093,0.045
+P00394,Kentra Essential Outdoor Gear,Sports & Outdoors,Outdoor Gear,Kentra,46.67,26.65,0.4289,0.07
+P00395,Nexora Flex Power Banks,Electronics,Power Banks,Nexora,81.07,60.7,0.2512,0.085
+P00396,Lumex Lite Jackets,Fashion,Jackets,Lumex,38.39,20.97,0.4538,0.13
+P00397,Novexa Flex Printers,Office,Printers,Novexa,38.5,25.5,0.3375,0.04
+P00398,Solara Essential Cookware,Home & Kitchen,Cookware,Solara,31.42,18.71,0.4044,0.055
+P00399,Mavix Lite Jackets,Fashion,Jackets,Mavix,65.08,28.07,0.5687,0.13
+P00400,Zenvia Prime Jackets,Fashion,Jackets,Zenvia,42.41,23.11,0.4551,0.13
+P00401,Avero Flex Bedding,Home & Kitchen,Bedding,Avero,40.39,26.23,0.3506,0.055
+P00402,Orbito Flex Cat Supplies,Pet Supplies,Cat Supplies,Orbito,32.17,20.26,0.3702,0.035
+P00403,Calibre Essential Outdoor Gear,Sports & Outdoors,OUTDOOR GEAR,Calibre,20.11,11.72,0.4169,0.07
+P00404,Kentra Flex Smart Watches, Electronics ,Smart Watches,Kentra,32.53,25.65,0.2116,0.085
+P00405,Calibre Elite Pet Beds,Pet Supplies,Pet Beds,Calibre,30.19,15.84,0.4755,0.035
+P00406,Mirello Max Printers,Office,Printers,Mirello,76.87,47.07,0.3877,0.04
+P00407,Mavix Essential Cookware,Home & Kitchen,Cookware,Mavix,56.64,39.55,0.3017,0.055
+P00408,Brivon Lite Stationery,Office,Stationery,Brivon,100.27,76.73,0.2348,0.04
+P00409,Mirello Plus Power Banks,Electronics,Power Banks,Mirello,80.95,59.63,0.2634,0.085
+P00410,Velto Flex Pet Beds,Pet Supplies,Pet Beds,Velto,16.65,10.96,0.3419,0.035
+P00411,Nexora Elite Cycling,Sports & Outdoors,Cycling,Nexora,79.43,46.51,0.4144,0.07
+P00412,Calibre Flex Running,Sports & Outdoors,Running,Calibre,63.2,42.64,0.3253,0.07
+P00413,Zenvia Plus Keyboards,Electronics,Keyboards,Zenvia,96.17,68.63,0.2863,0.085
+P00414,Velto Flex Printers, Office ,Printers,Velto,95.25,67.09,0.2956,0.04
+P00415,Novexa Pro Keyboards,Electronics,Keyboards,Novexa,57.78,38.81,0.3283,0.085
+P00416,Novexa Pro Bedding,Home & Kitchen,Bedding,Novexa,19.64,14.55,0.2591,0.055
+P00417,Calibre Max Smart Watches,Electronics,Smart Watches,Calibre,80.42,60.88,0.2431,0.085
+P00418,Kentra Flex Camping,Sports & Outdoors,Camping,Kentra,34.31,19.79,0.4231,0.07
+P00419,Lumex Classic Lighting,Home & Kitchen,Lighting,Lumex,25.53,17.26,0.3241,0.055
+P00420,Solara Lite Grooming,Pet Supplies,Grooming,Solara,19.59,12.15,0.3797,0.035
+P00421,Brivon Prime Camping,Sports & Outdoors,Camping,Brivon,51.21,32.79,0.3597,0.07
+P00422,Tekaro Flex Power Banks,Electronics,Power Banks,Tekaro,176.38,135.0,0.2346,0.085
+P00423,Calibre Comfort Mice,Electronics,Mice,Calibre,92.02,66.88,0.2732,0.085
+P00424,Novexa Comfort Smart Watches,Electronics,Smart Watches,Novexa,153.81,120.25,0.2182,0.085
+P00425,Velto Classic Skincare, Beauty ,Skincare,Velto,28.71,11.26,0.6077,0.045
+P00426,Solara Flex Stationery,Office,Stationery,Solara,36.14,21.77,0.3977,0.04
+P00427,Nexora Elite Storage,Home & Kitchen,Storage,Nexora,80.02,60.35,0.2458,0.055
+P00428,Zenvia Max Stationery,Office,Stationery,Zenvia,48.62,31.89,0.344,0.04
+P00429,Kentra Essential Headphones,Electronics,Headphones,Kentra,54.09,38.21,0.2935,0.085
+P00430,Kentra Plus Chairs,Office,Chairs,Kentra,33.6,24.82,0.2614,0.04
+P00431,Tekaro Classic Pet Beds, Pet Supplies ,Pet Beds,Tekaro,75.4,49.05,0.3495,0.035
+P00432,Torven Pro Camping,Sports & Outdoors,Camping,Torven,55.28,31.32,0.4335,0.07
+P00433,Solara Lite Camping,Sports & Outdoors,Camping,Solara,39.47,28.72,0.2723,0.07
+P00434,Velto Classic Chairs,Office,Chairs,Velto,33.25,21.1,0.3653,0.04
+P00435,Mavix Flex Power Banks,Electronics,Power Banks,Mavix,71.56,50.2,0.2985,0.085
+P00436,Solara Flex Drinkware,Home & Kitchen,Drinkware,Solara,49.03,33.79,0.3108,0.055
+P00437,Avero Essential Speakers,Electronics,Speakers,Avero,62.29,45.54,0.2688,0.085
+P00438,Novexa Plus Jackets,Fashion,Jackets,Novexa,39.75,21.63,0.4558,0.13
+P00439,Solara Elite Fitness,Sports & Outdoors,Fitness,Solara,103.95,64.52,0.3793,0.07
+P00440,Velto Prime Skincare,Beauty,Skincare,Velto,33.82,19.55,0.422,0.045
+P00441,Kentra Prime Printers,Office,Printers,Kentra,26.43,19.63,0.2571,0.04
+P00442,Torven Pro Smart Watches,Electronics,Smart Watches,Torven,37.96,30.92,0.1853,0.085
+P00443,Zenvia Max Fitness,Sports & Outdoors,Fitness,Zenvia,28.89,20.65,0.2853,0.07
+P00444,Solara Comfort Small Appliances,Home & Kitchen,Small Appliances,Solara,39.42,23.79,0.3965,0.055
+P00445,Zenvia Prime Lighting,Home & Kitchen,Lighting,Zenvia,49.62,31.88,0.3575,0.055
+P00446,Avero Essential Outdoor Gear,Sports & Outdoors,Outdoor Gear,Avero,75.57,50.63,0.33,0.07
+P00447,Torven Essential Pet Beds,Pet Supplies,Pet Beds,Torven,28.25,15.96,0.4351,0.035
+P00448,Orbito Prime Grooming,Beauty,Grooming,Orbito,8.0,4.65,0.4188,0.045
+P00449,Mirello Comfort Smart Watches,Electronics,Smart Watches,Mirello,114.98,80.41,0.3007,0.085
+P00450,Lumex Pro Hair Care,Beauty,Hair Care,Lumex,25.87,12.85,0.5034,0.045
+P00451,Nexora Essential Mice,Electronics,Mice,Nexora,133.56,107.31,0.1965,0.085
+P00452,Novexa Comfort Organizers,Office,Organizers,Novexa,64.43,47.74,0.259,0.04
+P00453,Zenvia Lite Camping,Sports & Outdoors,Camping,Zenvia,43.49,24.02,0.4476,0.07
+P00454,Mavix Prime Keyboards,Electronics,Keyboards,Mavix,191.6,154.81,0.192,0.085
+P00455,Torven Max Smart Watches,Electronics,Smart Watches,Torven,182.03,132.38,0.2727,0.085
+P00456,Novexa Prime Lighting,Home & Kitchen,Lighting,Novexa,38.77,24.72,0.3623,0.055
+P00457,Torven Lite Cat Supplies,Pet Supplies,Cat Supplies,Torven,48.06,33.06,0.3123,0.035
+P00458,Tekaro Classic Shoes,Fashion,Shoes,Tekaro,33.7,20.01,0.4063,0.13
+P00459,Zenvia Essential Running,Sports & Outdoors,Running,Zenvia,82.27,57.47,0.3015,0.07
+P00460,Mavix Essential Skincare,Beauty,Skincare,Mavix,38.63,23.58,0.3896,0.045
+P00461,Brivon Pro Makeup,Beauty,Makeup,Brivon,29.02,13.84,0.5232,0.045
+P00462,Zenvia Comfort Keyboards,Electronics,Keyboards,Zenvia,111.53,86.32,0.226,0.085
+P00463,Avero Elite Grooming,Pet Supplies,Grooming,Avero,18.8,9.47,0.4962,0.035
+P00464,Calibre Flex Drinkware,Home & Kitchen,Drinkware,Calibre,69.34,49.95,0.2796,0.055
+P00465,Novexa Max Makeup,Beauty,Makeup,Novexa,60.66,31.04,0.4883,0.045
+P00466,Kentra Comfort Cycling,Sports & Outdoors,Cycling,Kentra,79.42,47.66,0.3999,0.07
+P00467,Tekaro Comfort Grooming,Beauty,Grooming,Tekaro,22.74,12.07,0.4692,0.045
+P00468,Brivon Lite Dog Supplies,Pet Supplies,Dog Supplies,Brivon,20.85,12.79,0.3866,0.035
+P00469,Velto Flex Power Banks,Electronics,Power Banks,Velto,62.14,45.11,0.2741,0.085
+P00470,Zenvia Classic Jeans,Fashion,Jeans,Zenvia,58.25,27.58,0.5265,0.13
+P00471,Kentra Lite Shoes,Fashion,Shoes,Kentra,37.79,17.48,0.5375,0.13
+P00472,Mavix Comfort Jeans,Fashion,Jeans,Mavix,46.65,20.24,0.5661,0.13
+P00473,Mavix Comfort Speakers,Electronics,Speakers,Mavix,113.39,85.46,0.2463,0.085
+P00474,Mavix Lite Mice,Electronics,Mice,Mavix,108.29,86.99,0.1967,0.085
+P00475,Lumex Pro Small Appliances,Home & Kitchen,Small Appliances,Lumex,68.88,45.44,0.3402,0.055
+P00476,Mirello Lite Small Appliances,Home & Kitchen,Small Appliances,Mirello,48.81,31.63,0.3519,0.055
+P00477,Avero Plus T-Shirts, Fashion ,T-Shirts,Avero,26.37,15.83,0.3999,0.13
+P00478,Brivon Essential Hair Care,Beauty,Hair Care,Brivon,22.82,11.25,0.507,0.045
+P00479,Nexora Classic Skincare,Beauty,Skincare,Nexora,14.28,6.97,0.5119,0.045
+P00480,Mavix Essential Jeans,Fashion,Jeans,Mavix,71.6,42.88,0.401,0.13
+P00481,Torven Plus Jackets,fashion,Jackets,Torven,30.8,19.12,0.3792,0.13
+P00482,Tekaro Comfort Cookware,Home & Kitchen,Cookware,Tekaro,106.47,69.08,0.3512,0.055
+P00483,Torven Lite Makeup,Beauty,Makeup,Torven,18.26,7.05,0.6139,0.045
+P00484,Lumex Classic Storage,Home & Kitchen,Storage,Lumex,29.69,20.32,0.3156,0.055
+P00485,Mirello Lite Keyboards,Electronics,Keyboards,Mirello,92.82,61.3,0.3395,0.085
+P00486,Brivon Essential Jackets,Fashion,Jackets,Brivon,45.43,19.41,0.5726,0.13
+P00487,Mirello Flex Jackets,Fashion,Jackets,Mirello,36.33,17.73,0.512,0.13
+P00488,Lumex Lite Cookware,Home & Kitchen,Cookware,Lumex,35.15,22.45,0.3612,0.055
+P00489,Nexora Flex Hair Care,Beauty,Hair Care,Nexora,52.49,21.78,0.5851,0.045
+P00490,Brivon Essential Skincare,Beauty,Skincare,Brivon,19.05,7.24,0.6199,0.045
+P00491,Nexora Plus Outdoor Gear,Sports & Outdoors,Outdoor Gear,Nexora,44.1,31.69,0.2814,0.07
+P00492,Solara Classic Makeup, Beauty ,Makeup,Solara,36.65,17.55,0.5212,0.045
+P00493,Zenvia Elite Cycling,Sports & Outdoors,Cycling,Zenvia,29.18,20.15,0.3095,0.07
+P00494,Novexa Lite Lighting,Home & Kitchen,Lighting,Novexa,47.85,30.62,0.36,0.055
+P00495,Orbito Comfort Yoga,Sports & Outdoors,Yoga,Orbito,31.69,21.66,0.3165,0.07
+P00496,Lumex Flex Skincare,Beauty,Skincare,Lumex,10.05,5.69,0.4334,0.045
+P00497,Nexora Plus Accessories,Fashion,Accessories,Nexora,58.56,32.43,0.4462,0.13
+P00498,Tekaro Flex Hair Care,Beauty,Hair Care,Tekaro,38.68,15.09,0.6098,0.045
+P00499,Nexora Lite Accessories,Fashion,Accessories,Nexora,61.67,37.99,0.384,0.13
+P00500,Zenvia Plus Accessories,Fashion,Accessories,Zenvia,42.18,24.16,0.4274,0.13
+P00501,Avero Elite Running,Sports & Outdoors,Running,Avero,38.12,20.81,0.4543,0.07
+P00502,Mirello Max Desk Accessories,Office,Desk Accessories,Mirello,56.01,41.1,0.2663,0.04
+P00503,Orbito Elite Cat Supplies,Pet Supplies,Cat Supplies,Orbito,19.96,11.68,0.4148,0.035
+P00504,Velto Plus Jeans,Fashion,Jeans,Velto,38.47,19.25,0.4997,0.13
+P00505,Mirello Plus Jeans,Fashion,Jeans,Mirello,49.43,22.81,0.5385,0.13
+P00506,Tekaro Flex Organizers,Office,Organizers,Tekaro,28.99,18.87,0.3489,0.04
+P00507,Tekaro Prime Storage,Home & Kitchen,Storage,Tekaro,54.58,40.51,0.2579,0.055
+P00508,Solara Essential Organizers,Office,Organizers,Solara,82.19,60.54,0.2634,0.04
+P00509,Brivon Comfort Accessories,Fashion,Accessories,Brivon,54.19,27.62,0.4904,0.13
+P00510,Mirello Max Power Banks,Electronics,Power Banks,Mirello,61.71,47.55,0.2295,0.085
+P00511,Brivon Plus Speakers,Electronics,Speakers,Brivon,45.57,32.59,0.2848,0.085
+P00512,Tekaro Flex Stationery,Office,Stationery,,53.33,40.65,0.2377,0.04
+P00513,Brivon Essential Mice,Electronics,Mice,Brivon,25.0,17.52,0.2993,0.085
+P00514,Brivon Plus Cookware,Home & Kitchen,Cookware,Brivon,38.8,25.37,0.3462,0.055
+P00515,Lumex Classic Storage,Home & Kitchen,Storage,Lumex,46.99,33.23,0.2927,0.055
+P00516,Solara Pro Speakers,Electronics,Speakers,Solara,92.67,65.64,0.2917,0.085
+P00517,Zenvia Max Small Appliances,Home & Kitchen,Small Appliances,Zenvia,78.66,58.48,0.2565,0.055
+P00518,Brivon Lite Camping,Sports & Outdoors,Camping,Brivon,45.0,26.5,0.411,0.07
+P00519,Brivon Classic Headphones,Electronics,Headphones,Brivon,106.26,84.73,0.2026,0.085
+P00520,Tekaro Classic Stationery,Office,Stationery,Tekaro,86.75,58.26,0.3284,0.04
+P00521,Novexa Classic Chairs,Office,Chairs,Novexa,25.89,19.01,0.2657,0.04
+P00522,Zenvia Comfort Jeans,Fashion,Jeans,Zenvia,92.39,45.05,0.5124,0.13
+P00523,Avero Flex Speakers,Electronics,Speakers,Avero,132.88,95.45,0.2817,0.085
+P00524,Mavix Lite Hair Care,Beauty,Hair Care,Mavix,21.2,9.25,0.5635,0.045
+P00525,Novexa Classic Keyboards,Electronics,KEYBOARDS,Novexa,45.69,34.09,0.2538,0.085
+P00526,Velto Flex Shoes,Fashion,Shoes,Velto,37.23,22.07,0.4072,0.13
+P00527,Lumex Comfort Pet Beds,Pet Supplies,Pet Beds,Lumex,23.53,12.78,0.4566,0.035
+P00528,Calibre Pro Grooming,Pet Supplies,Grooming,Calibre,21.01,14.07,0.3303,0.035
+P00529,Orbito Plus Running,Sports & Outdoors,Running,Orbito,95.77,61.87,0.354,0.07
+P00530,Lumex Lite Storage,Home & Kitchen,Storage,Lumex,45.26,31.35,0.3073,0.055
+P00531,Mavix Essential Outdoor Gear,Sports & Outdoors,Outdoor Gear,Mavix,29.81,17.62,0.409,0.07
+P00532,Lumex Flex Cycling,Sports & Outdoors,Cycling,Lumex,44.21,24.17,0.4532,0.07
+P00533,Zenvia Comfort Shoes,Fashion,Shoes,Zenvia,24.41,10.78,0.5586,0.13
+P00534,Novexa Pro Hair Care,Beauty,Hair Care,Novexa,11.34,5.37,0.5261,0.045
+P00535,Velto Classic Smart Watches,Electronics,Smart Watches,Velto,241.95,172.88,0.2855,0.085
+P00536,Mirello Pro Drinkware,Home & Kitchen,Drinkware,Mirello,49.03,34.47,0.2969,0.055
+P00537,Mavix Classic Jackets,Fashion,Jackets,Mavix,78.83,34.58,0.5614,0.13
+P00538,Kentra Elite Speakers,Electronics,Speakers,Kentra,65.87,45.05,0.316,0.085
+P00539,Mavix Classic Headphones,Electronics,Headphones,Mavix,100.25,80.87,0.1934,0.085
+P00540,Velto Plus Stationery,Office,Stationery,Velto,36.27,22.07,0.3916,0.04
+P00541,Torven Essential Dog Supplies,Pet Supplies,Dog Supplies,Torven,29.05,16.61,0.4282,0.035
+P00542,Mavix Plus Fragrance,Beauty,Fragrance,Mavix,15.85,7.37,0.5351,0.045
+P00543,Torven Classic Desk Accessories,Office,Desk Accessories,Torven,38.38,28.18,0.2659,0.04
+P00544,Solara Comfort Grooming,Pet Supplies,Grooming,Solara,24.87,15.17,0.3903,0.035
+P00545,Nexora Elite Headphones,Electronics,Headphones,Nexora,67.04,52.07,0.2233,0.085
+P00546,Calibre Classic Jeans,Fashion,Jeans,Calibre,60.95,34.96,0.4264,0.13
+P00547,Mavix Pro Bags,Fashion,BAGS,Mavix,76.69,46.44,0.3944,0.13
+P00548,Zenvia Elite Mice,Electronics,Mice,Zenvia,80.86,57.39,0.2902,0.085
+P00549,Mavix Comfort Fitness,sports & outdoors,Fitness,Mavix,41.5,29.52,0.2887,0.07
+P00550,Brivon Flex T-Shirts,Fashion,T-Shirts,Brivon,83.26,39.54,0.525,0.13
+P00551,Avero Essential Shoes,Fashion,Shoes,Avero,42.99,24.22,0.4366,0.13
+P00552,Lumex Essential Smart Watches,Electronics,Smart Watches,Lumex,101.77,67.23,0.3394,0.085
+P00553,Calibre Essential Storage,Home & Kitchen,Storage,Calibre,51.03,32.03,0.3723,0.055
+P00554,Kentra Essential Grooming,Pet Supplies,Grooming,Kentra,45.45,30.14,0.3368,0.035
+P00555,Brivon Classic Headphones,Electronics,Headphones,Brivon,47.48,38.0,0.1998,0.085
+P00556,Calibre Essential Storage,Home & Kitchen,Storage,Calibre,28.22,21.09,0.2526,0.055
+P00557,Mirello Plus Drinkware,Home & Kitchen,Drinkware,Mirello,64.82,37.8,0.4168,0.055
+P00558,Lumex Comfort Accessories,Fashion,Accessories,Lumex,52.51,25.5,0.5144,0.13
+P00559,Zenvia Max Skincare,Beauty,Skincare,Zenvia,42.03,24.16,0.4253,0.045
+P00560,Tekaro Comfort T-Shirts,Fashion,T-Shirts,Tekaro,29.41,12.44,0.5769,0.13
+P00561,Zenvia Classic Smart Watches,Electronics,Smart Watches,Zenvia,109.17,77.68,0.2885,0.085
+P00562,Zenvia Essential Cookware,Home & Kitchen,Cookware,Zenvia,66.05,45.86,0.3056,0.055
+P00563,Solara Flex Desk Accessories,Office,Desk Accessories,Solara,50.72,37.21,0.2663,0.04
+P00564,Torven Essential Makeup,Beauty,Makeup,Torven,19.12,11.59,0.3938,0.045
+P00565,Zenvia Max Grooming,Beauty,Grooming,Zenvia,39.15,22.93,0.4144,0.045
+P00566,Velto Max Camping,Sports & Outdoors,Camping,Velto,38.06,27.59,0.2751,0.07
+P00567,Zenvia Pro Cycling,Sports & Outdoors,Cycling,Zenvia,59.7,39.18,0.3437,0.07
+P00568,Brivon Elite Mice,Electronics,Mice,Brivon,106.97,85.08,0.2047,0.085
+P00569,Novexa Prime Shoes,Fashion,Shoes,Novexa,58.99,25.91,0.5608,0.13
+P00570,Lumex Essential Shoes,Fashion,Shoes,Lumex,66.18,36.67,0.4458,0.13
+P00571,Avero Comfort Storage,Home & Kitchen,Storage,Avero,36.67,27.24,0.2572,0.055
+P00572,Torven Max Stationery,office,Stationery,Torven,58.24,37.14,0.3623,0.04
+P00573,Nexora Flex Bags, Fashion ,Bags,Nexora,160.0,103.52,0.353,0.13
+P00574,Brivon Flex Camping,Sports & Outdoors,Camping,Brivon,42.96,29.12,0.3221,0.07
+P00575,Novexa Prime Desk Accessories,office,Desk Accessories,Novexa,80.2,60.55,0.245,0.04
+P00576,Orbito Comfort Bags,Fashion,Bags,Orbito,32.54,19.69,0.3948,0.13
+P00577,Solara Plus Cat Supplies,Pet Supplies,Cat Supplies,Solara,18.11,12.27,0.3224,0.035
+P00578,Avero Plus Makeup,Beauty,Makeup,Avero,14.31,8.31,0.4194,0.045
+P00579,Torven Prime Chairs,Office,Chairs,Torven,46.28,33.14,0.2839,0.04
+P00580,Zenvia Elite Storage,Home & Kitchen,Storage,Zenvia,54.17,35.68,0.3413,0.055
+P00581,Orbito Pro Bags,Fashion,Bags,Orbito,28.7,14.98,0.4779,0.13
+P00582,Orbito Lite Jackets,Fashion,Jackets,Orbito,76.03,34.04,0.5523,0.13
+P00583,Torven Elite Headphones,Electronics,Headphones,Torven,123.37,95.82,0.2233,0.085
+P00584,Lumex Plus Jackets,Fashion,Jackets,Lumex,58.13,27.03,0.5349,0.13
+P00585,Orbito Essential Toys,Pet Supplies,Toys,Orbito,33.13,22.9,0.3086,0.035
+P00586,Avero Lite Skincare,beauty,Skincare,Avero,17.73,10.69,0.3972,0.045
+P00587,Kentra Elite Speakers,Electronics,Speakers,Kentra,44.12,34.85,0.2102,0.085
+P00588,Torven Elite Drinkware,Home & Kitchen,Drinkware,Torven,27.32,20.07,0.2652,0.055
+P00589,Brivon Max Storage,Home & Kitchen,Storage,Brivon,42.35,26.78,0.3678,0.055
+P00590,Mavix Max Power Banks,Electronics,Power Banks,Mavix,64.63,48.0,0.2574,0.085
+P00591,Orbito Lite Dog Supplies,Pet Supplies,Dog Supplies,Orbito,31.16,17.67,0.4329,0.035
+P00592,Nexora Plus T-Shirts,Fashion,T-Shirts,Nexora,56.59,35.56,0.3717,0.13
+P00593,Tekaro Essential Small Appliances,Home & Kitchen,Small Appliances,Tekaro,45.21,30.93,0.3158,0.055
+P00594,Tekaro Prime Skincare,Beauty,Skincare,Tekaro,43.57,23.32,0.4647,0.045
+P00595,Brivon Essential Power Banks,Electronics,Power Banks,Brivon,228.65,169.67,0.2579,0.085
+P00596,Calibre Lite Small Appliances,Home & Kitchen,Small Appliances,,48.3,32.38,0.3295,0.055
+P00597,Avero Lite Fitness,Sports & Outdoors,Fitness,Avero,39.36,26.35,0.3306,0.07
+P00598,Velto Essential Hair Care,Beauty,Hair Care,Velto,36.37,22.01,0.3949,0.045
+P00599,Brivon Flex Pet Beds,Pet Supplies,Pet Beds,Brivon,15.84,8.13,0.4867,0.035
+P00600,Mavix Pro Grooming,Beauty,Grooming,Mavix,35.24,16.63,0.528,0.045
+P00601,Avero Essential Jackets,Fashion,Jackets,Avero,29.18,18.28,0.3734,0.13
+P00602,Torven Lite Fitness,Sports & Outdoors,Fitness,Torven,57.75,42.02,0.2724,0.07
+P00603,Zenvia Pro Grooming,Pet Supplies,Grooming,Zenvia,17.57,10.18,0.4209,0.035
+P00604,Mirello Max Outdoor Gear,Sports & Outdoors,OUTDOOR GEAR,Mirello,55.86,31.77,0.4313,0.07
+P00605,Velto Comfort Pet Beds,Pet Supplies,Pet Beds,Velto,39.68,25.59,0.355,0.035
+P00606,Nexora Classic Fitness,Sports & Outdoors,Fitness,Nexora,38.39,25.35,0.3397,0.07
+P00607,Solara Elite Stationery,Office,Stationery,Solara,37.84,27.53,0.2726,0.04
+P00608,Kentra Plus Mice,Electronics,Mice,Kentra,172.81,118.98,0.3115,0.085
+P00609,Lumex Flex Camping,Sports & Outdoors,Camping,Lumex,50.49,30.41,0.3977,0.07
+P00610,Orbito Classic Bags,Fashion,Bags,Orbito,79.7,37.62,0.528,0.13
+P00611,Avero Essential Grooming, Beauty ,Grooming,Avero,11.64,7.11,0.3893,0.045
+P00612,Brivon Max Camping,Sports & Outdoors,Camping,Brivon,19.88,13.17,0.3377,0.07
+P00613,Solara Flex Toys,Pet Supplies,Toys,Solara,36.31,20.57,0.4334,0.035
+P00614,Calibre Max Cat Supplies,Pet Supplies,Cat Supplies,Calibre,18.41,10.73,0.417,0.035
+P00615,Orbito Classic Cookware,Home & Kitchen,Cookware,Orbito,38.71,24.59,0.3649,0.055
+P00616,Avero Flex Running,Sports & Outdoors,Running,Avero,58.21,37.62,0.3538,0.07
+P00617,Avero Classic Running,Sports & Outdoors,Running,Avero,67.93,47.48,0.301,0.07
+P00618,Tekaro Elite Lighting,Home & Kitchen,Lighting,Tekaro,38.1,28.89,0.2418,0.055
+P00619,Mavix Plus Mice,Electronics,Mice,Mavix,127.69,98.84,0.2259,0.085
+P00620,Solara Pro Speakers,Electronics,Speakers,Solara,105.53,77.13,0.2691,0.085
+P00621,Zenvia Max Running,Sports & Outdoors,Running,Zenvia,42.08,23.17,0.4495,0.07
+P00622,Kentra Comfort Jackets,Fashion,Jackets,Kentra,45.3,28.0,0.3818,0.13
+P00623,Torven Flex Cat Supplies,Pet Supplies,Cat Supplies,Torven,23.89,13.18,0.4481,0.035
+P00624,Lumex Comfort Accessories,Fashion,Accessories,Lumex,69.4,43.35,0.3753,0.13
+P00625,Tekaro Lite Pet Beds,Pet Supplies,Pet Beds,Tekaro,36.47,19.44,0.4669,0.035
+P00626,Calibre Flex Shoes,Fashion,Shoes,Calibre,63.75,28.56,0.5519,0.13
+P00627,Solara Prime Chairs,Office,Chairs,Solara,36.36,25.05,0.3111,0.04
+P00628,Brivon Max Headphones,Electronics,Headphones,Brivon,69.96,55.87,0.2014,0.085
+P00629,Avero Lite Makeup,Beauty,Makeup,Avero,34.34,19.38,0.4357,0.045
+P00630,Avero Flex Organizers,Office,Organizers,Avero,30.83,23.73,0.2303,0.04
+P00631,Calibre Plus Cat Supplies,Pet Supplies,Cat Supplies,Calibre,13.27,7.54,0.4318,0.035
+P00632,Zenvia Essential Chairs,Office,Chairs,Zenvia,39.06,26.75,0.3152,0.04
+P00633,Mirello Prime Speakers,Electronics,Speakers,Mirello,101.09,69.6,0.3115,0.085
+P00634,Mavix Pro Shoes,Fashion,Shoes,Mavix,41.94,17.76,0.5765,0.13
+P00635,Lumex Lite Power Banks,Electronics,Power Banks,Lumex,66.08,50.71,0.2326,0.085
+P00636,Orbito Pro Smart Watches,Electronics,SMART WATCHES,Orbito,81.59,59.12,0.2754,0.085
+P00637,Nexora Plus Yoga,Sports & Outdoors,Yoga,Nexora,63.93,42.24,0.3392,0.07
+P00638,Zenvia Prime Outdoor Gear,Sports & Outdoors,Outdoor Gear,Zenvia,45.23,27.18,0.399,0.07
+P00639,Orbito Flex Camping,Sports & Outdoors,CAMPING,Orbito,25.74,15.4,0.4015,0.07
+P00640,Nexora Elite Chairs,Office,Chairs,Nexora,35.92,27.79,0.2263,0.04
+P00641,Novexa Essential Running,Sports & Outdoors,Running,Novexa,33.28,18.59,0.4414,0.07
+P00642,Solara Prime Desk Accessories,Office,Desk Accessories,Solara,41.73,29.16,0.3012,0.04
+P00643,Avero Essential Keyboards,Electronics,Keyboards,Avero,101.35,70.92,0.3002,0.085
+P00644,Solara Classic Drinkware,Home & Kitchen,Drinkware,Solara,23.14,16.33,0.2942,0.055
+P00645,Torven Prime Fragrance,Beauty,Fragrance,Torven,19.27,9.88,0.4873,0.045
+P00646,Zenvia Lite Chairs,Office,Chairs,Zenvia,47.25,32.16,0.3195,0.04
+P00647,Calibre Pro Power Banks,Electronics,Power Banks,Calibre,66.98,44.93,0.3291,0.085
+P00648,Lumex Flex Shoes,Fashion,Shoes,Lumex,35.54,17.34,0.5122,0.13
+P00649,Brivon Pro Outdoor Gear,Sports & Outdoors,Outdoor Gear,Brivon,70.71,41.55,0.4124,0.07
+P00650,Tekaro Lite Power Banks,Electronics,Power Banks,Tekaro,177.48,139.61,0.2134,0.085
+P00651,Brivon Max Jeans,Fashion,Jeans,Brivon,48.11,21.8,0.5469,0.13
+P00652,Velto Prime Organizers,Office,Organizers,Velto,38.22,24.19,0.3669,0.04
+P00653,Novexa Elite Yoga,Sports & Outdoors,Yoga,Novexa,54.11,30.72,0.4323,0.07
+P00654,Tekaro Comfort Bedding,Home & Kitchen,Bedding,Tekaro,80.78,61.38,0.2401,0.055
+P00655,Zenvia Lite Printers,Office,Printers,Zenvia,23.21,16.03,0.3094,0.04
+P00656,Solara Elite Drinkware,Home & Kitchen,Drinkware,Solara,55.16,39.16,0.2901,0.055
+P00657,Zenvia Lite Organizers,Office,Organizers,Zenvia,17.51,10.6,0.3948,0.04
+P00658,Calibre Plus Small Appliances,Home & Kitchen,Small Appliances,Calibre,48.77,31.72,0.3497,0.055
+P00659,Brivon Comfort Skincare,Beauty,Skincare,Brivon,28.84,14.28,0.505,0.045
+P00660,Novexa Max Accessories,fashion,Accessories,Novexa,119.54,67.23,0.4376,0.13
+P00661,Mavix Classic Small Appliances,Home & Kitchen,Small Appliances,Mavix,76.45,55.99,0.2676,0.055
+P00662,Torven Essential Printers,Office,Printers,Torven,56.0,43.19,0.2288,0.04
+P00663,Solara Pro Cookware,Home & Kitchen,Cookware,Solara,63.8,40.39,0.3669,0.055
+P00664,Calibre Plus Power Banks,Electronics,Power Banks,Calibre,161.52,117.14,0.2747,0.085
+P00665,Orbito Max Storage,Home & Kitchen,Storage,Orbito,41.95,27.77,0.3379,0.055
+P00666,Tekaro Lite Outdoor Gear,Sports & Outdoors,Outdoor Gear,Tekaro,27.21,18.16,0.3327,0.07
+P00667,Solara Pro Chairs,Office,Chairs,Solara,91.27,69.31,0.2406,0.04
+P00668,Orbito Classic Toys,Pet Supplies,Toys,Orbito,48.7,28.7,0.4106,0.035
+P00669,Solara Elite Cookware,Home & Kitchen,Cookware,Solara,76.09,46.88,0.3838,0.055
+P00670,Mavix Max Jackets,Fashion,Jackets,Mavix,64.49,32.68,0.4932,0.13
+P00671,Zenvia Flex Mice,Electronics,Mice,Zenvia,84.36,56.97,0.3247,0.085
+P00672,Novexa Flex Skincare,Beauty,Skincare,Novexa,42.75,18.17,0.5749,0.045
+P00673,Solara Plus Dog Supplies,Pet Supplies,Dog Supplies,Solara,35.73,22.82,0.3614,0.035
+P00674,Mirello Lite Yoga,Sports & Outdoors,Yoga,Mirello,46.18,31.02,0.3283,0.07
+P00675,Orbito Lite Hair Care,Beauty,Hair Care,Orbito,30.73,13.01,0.5768,0.045
+P00676,Avero Prime Jeans,Fashion,Jeans,Avero,76.95,48.71,0.367,0.13
+P00677,Novexa Classic Grooming,Pet Supplies,Grooming,Novexa,23.02,12.79,0.4445,0.035
+P00678,Lumex Lite Accessories,Fashion,Accessories,Lumex,28.67,16.06,0.4398,0.13
+P00679,Novexa Essential Power Banks,Electronics,Power Banks,Novexa,102.34,70.76,0.3086,0.085
+P00680,Velto Essential Jeans,Fashion,Jeans,Velto,61.65,38.84,0.37,0.13
+P00681,Torven Comfort Keyboards,Electronics,Keyboards,Torven,98.24,73.66,0.2501,0.085
+P00682,Torven Pro Storage,home & kitchen,Storage,Torven,45.24,30.3,0.3302,0.055
+P00683,Torven Pro Keyboards,Electronics,Keyboards,Torven,85.2,67.91,0.2029,0.085
+P00684,Kentra Comfort Jeans,Fashion,Jeans,,32.38,19.36,0.4019,0.13
+P00685,Orbito Elite Hair Care,Beauty,Hair Care,Orbito,13.78,5.6,0.5937,0.045
+P00686,Kentra Plus Lighting,Home & Kitchen,Lighting,Kentra,42.73,29.66,0.3058,0.055
+P00687,Orbito Pro Accessories,Fashion,Accessories,Orbito,26.86,13.62,0.493,0.13
+P00688,Mavix Comfort Cat Supplies,Pet Supplies,Cat Supplies,Mavix,37.88,20.19,0.4671,0.035
+P00689,Brivon Elite Cycling,Sports & Outdoors,Cycling,Brivon,47.94,28.87,0.3978,0.07
+P00690,Novexa Elite Fragrance,Beauty,Fragrance,Novexa,20.59,12.24,0.4055,0.045
+P00691,Brivon Classic Lighting,Home & Kitchen,Lighting,Brivon,60.02,39.25,0.346,0.055
+P00692,Velto Flex Desk Accessories,Office,Desk Accessories,Velto,57.41,42.54,0.259,0.04
+P00693,Brivon Plus Lighting,Home & Kitchen,Lighting,Brivon,42.26,31.88,0.2454,0.055
+P00694,Zenvia Prime Drinkware,Home & Kitchen,Drinkware,Zenvia,32.04,24.05,0.2493,0.055
+P00695,Kentra Lite Cat Supplies,Pet Supplies,Cat Supplies,Kentra,23.8,15.48,0.3494,0.035
+P00696,Mirello Classic Accessories,Fashion,Accessories,Mirello,67.65,40.7,0.3983,0.13
+P00697,Velto Max Running,Sports & Outdoors,Running,Velto,71.22,50.87,0.2858,0.07
+P00698,Velto Pro Skincare,Beauty,Skincare,Velto,26.68,16.18,0.3937,0.045
+P00699,Mirello Classic Outdoor Gear,Sports & Outdoors,Outdoor Gear,Mirello,55.87,33.57,0.3991,0.07
+P00700,Kentra Plus Storage,Home & Kitchen,Storage,Kentra,62.13,44.85,0.278,0.055
+P00701,Kentra Flex Small Appliances,Home & Kitchen,Small Appliances,Kentra,53.41,37.13,0.3048,0.055
+P00702,Mirello Prime Lighting,Home & Kitchen,Lighting,Mirello,50.93,35.53,0.3023,0.055
+P00703,Mirello Pro Power Banks,Electronics,Power Banks,Mirello,153.41,111.77,0.2714,0.085
+P00704,Avero Plus Stationery,Office,Stationery,Avero,30.43,19.7,0.3528,0.04
+P00705,Mavix Prime Small Appliances,Home & Kitchen,Small Appliances,Mavix,20.91,15.2,0.2732,0.055
+P00706,Tekaro Comfort Skincare,Beauty,Skincare,Tekaro,81.83,32.03,0.6085,0.045
+P00707,Kentra Comfort Stationery,Office,Stationery,Kentra,51.82,34.82,0.328,0.04
+P00708,Torven Lite Fitness,Sports & Outdoors,Fitness,Torven,73.2,42.98,0.4129,0.07
+P00709,Orbito Essential Jeans,Fashion,Jeans,Orbito,37.75,24.32,0.3557,0.13
+P00710,Mavix Max Jackets,Fashion,Jackets,Mavix,52.01,30.88,0.4061,0.13
+P00711,Zenvia Comfort Toys,Pet Supplies,Toys,Zenvia,18.74,12.54,0.3306,0.035
+P00712,Mirello Prime Camping,Sports & Outdoors,Camping,Mirello,59.56,38.51,0.3534,0.07
+P00713,Mirello Max Organizers,Office,Organizers,Mirello,35.03,21.07,0.3986,0.04
+P00714,Kentra Prime Grooming,Pet Supplies,Grooming,Kentra,16.94,9.04,0.4665,0.035
+P00715,Calibre Plus Cycling,Sports & Outdoors,Cycling,Calibre,87.8,56.17,0.3603,0.07
+P00716,Nexora Lite Lighting,Home & Kitchen,Lighting,Nexora,43.02,26.11,0.3932,0.055
+P00717,Calibre Comfort Fragrance,Beauty,Fragrance,Calibre,30.68,11.94,0.6109,0.045
+P00718,Brivon Elite Smart Watches,Electronics,Smart Watches,Brivon,176.97,123.68,0.3011,0.085
+P00719,Mirello Elite Camping,Sports & Outdoors,Camping,Mirello,26.43,16.39,0.38,0.07
+P00720,Solara Prime Dog Supplies,Pet Supplies,Dog Supplies,Solara,47.53,30.85,0.351,0.035
+P00721,Novexa Lite Accessories,Fashion,Accessories,Novexa,71.92,43.26,0.3986,0.13
+P00722,Avero Essential Jeans,Fashion,Jeans,Avero,57.29,30.51,0.4675,0.13
+P00723,Zenvia Prime Headphones,Electronics,Headphones,Zenvia,83.83,56.98,0.3202,0.085
+P00724,Novexa Max Cat Supplies,Pet Supplies,Cat Supplies,Novexa,21.18,14.46,0.317,0.035
+P00725,Mavix Classic Power Banks,Electronics,Power Banks,Mavix,84.03,62.66,0.2543,0.085
+P00726,Avero Elite Keyboards,Electronics,Keyboards,Avero,88.98,69.0,0.2245,0.085
+P00727,Nexora Lite Storage,Home & Kitchen,Storage,Nexora,19.48,13.66,0.2988,0.055
+P00728,Mavix Prime Headphones,Electronics,Headphones,Mavix,52.23,42.34,0.1893,0.085
+P00729,Solara Pro Accessories,Fashion,Accessories,Solara,36.84,18.34,0.5023,0.13
+P00730,Mavix Comfort Shoes,Fashion,Shoes,Mavix,40.04,17.17,0.5711,0.13
+P00731,Calibre Lite Lighting,Home & Kitchen,Lighting,Calibre,56.33,37.83,0.3284,0.055
+P00732,Lumex Elite Power Banks,Electronics,Power Banks,Lumex,115.59,80.77,0.3013,0.085
+P00733,Lumex Lite Mice,Electronics,Mice,Lumex,149.02,99.95,0.3293,0.085
+P00734,Nexora Elite Jeans,Fashion,Jeans,Nexora,45.47,19.85,0.5634,0.13
+P00735,Lumex Essential Mice,Electronics,Mice,Lumex,56.02,39.68,0.2917,0.085
+P00736,Calibre Plus Camping,Sports & Outdoors,Camping,Calibre,65.0,47.16,0.2744,0.07
+P00737,Brivon Lite Cookware,Home & Kitchen,Cookware,Brivon,43.6,28.04,0.3568,0.055
+P00738,Lumex Essential Drinkware,Home & Kitchen,Drinkware,Lumex,62.78,44.62,0.2892,0.055
+P00739,Velto Pro Jeans,Fashion,Jeans,Velto,33.26,20.25,0.391,0.13
+P00740,Novexa Comfort T-Shirts,Fashion,T-SHIRTS,Novexa,60.13,29.87,0.5032,0.13
+P00741,Torven Flex Mice,Electronics,Mice,Torven,127.44,92.92,0.2708,0.085
+P00742,Zenvia Lite Headphones,Electronics,Headphones,Zenvia,156.18,126.52,0.1899,0.085
+P00743,Kentra Plus Stationery,Office,Stationery,Kentra,40.29,29.4,0.2704,0.04
+P00744,Mavix Comfort Power Banks,Electronics,Power Banks,Mavix,280.0,195.17,0.303,0.085
+P00745,Brivon Classic T-Shirts,Fashion,T-Shirts,Brivon,39.33,19.03,0.5163,0.13
+P00746,Calibre Elite Shoes,Fashion,Shoes,Calibre,39.58,22.74,0.4254,0.13
+P00747,Tekaro Prime Lighting,home & kitchen,Lighting,Tekaro,61.76,40.03,0.3518,0.055
+P00748,Lumex Lite Jackets,Fashion,Jackets,Lumex,23.14,13.5,0.4168,0.13
+P00749,Zenvia Lite Yoga,Sports & Outdoors,Yoga,Zenvia,45.26,26.2,0.4211,0.07
+P00750,Solara Comfort Stationery,Office,Stationery,Solara,50.71,33.68,0.3357,0.04
+P00751,Tekaro Comfort Cookware,Home & Kitchen,Cookware,Tekaro,43.54,27.35,0.3718,0.055
+P00752,Solara Lite Drinkware,Home & Kitchen,Drinkware,Solara,20.8,14.75,0.291,0.055
+P00753,Orbito Lite Lighting,Home & Kitchen,Lighting,Orbito,60.62,41.8,0.3104,0.055
+P00754,Nexora Lite Shoes,Fashion,Shoes,Nexora,74.27,34.54,0.535,0.13
+P00755,Zenvia Flex Yoga,Sports & Outdoors,Yoga,Zenvia,42.16,27.01,0.3593,0.07
+P00756,Velto Elite Cookware,Home & Kitchen,Cookware,Velto,59.42,41.48,0.3019,0.055
+P00757,Orbito Plus Lighting,Home & Kitchen,Lighting,Orbito,57.16,40.79,0.2863,0.055
+P00758,Calibre Pro Grooming,pet supplies,Grooming,Calibre,30.41,19.04,0.3741,0.035
+P00759,Lumex Comfort Headphones,Electronics,Headphones,Lumex,190.19,125.56,0.3398,0.085
+P00760,Nexora Essential Jackets,Fashion,Jackets,Nexora,49.94,21.51,0.5692,0.13
+P00761,Mavix Lite Yoga,Sports & Outdoors,Yoga,Mavix,103.15,57.38,0.4438,0.07
+P00762,Velto Essential Power Banks,Electronics,Power Banks,Velto,43.04,28.58,0.3359,0.085
+P00763,Torven Lite Mice,Electronics,Mice,Torven,52.03,34.93,0.3286,0.085
+P00764,Solara Max Smart Watches,Electronics,Smart Watches,Solara,72.47,51.74,0.2861,0.085
+P00765,Solara Prime Grooming,Pet Supplies,Grooming,Solara,39.98,23.03,0.424,0.035
+P00766,Brivon Plus Smart Watches,Electronics,Smart Watches,Brivon,89.88,71.78,0.2014,0.085
+P00767,Nexora Pro Bedding,Home & Kitchen,Bedding,Nexora,40.52,25.65,0.3669,0.055
+P00768,Mavix Flex Mice,Electronics,Mice,Mavix,140.3,96.8,0.3101,0.085
+P00769,Brivon Essential Mice,Electronics,Mice,Brivon,168.85,124.64,0.2618,0.085
+P00770,Brivon Classic Makeup,Beauty,Makeup,Brivon,47.99,25.31,0.4727,0.045
+P00771,Orbito Classic Storage,Home & Kitchen,Storage,Orbito,41.42,27.42,0.3381,0.055
+P00772,Calibre Flex Fragrance,Beauty,Fragrance,Calibre,30.65,17.4,0.4323,0.045
+P00773,Kentra Classic Skincare,Beauty,Skincare,Kentra,25.45,14.51,0.4298,0.045
+P00774,Lumex Plus Chairs,office,Chairs,Lumex,40.93,25.82,0.3692,0.04
+P00775,Mirello Pro Headphones,Electronics,Headphones,Mirello,77.52,56.3,0.2738,0.085
+P00776,Lumex Pro Chairs, Office ,Chairs,Lumex,41.19,28.44,0.3095,0.04
+P00777,Kentra Prime Makeup,Beauty,Makeup,Kentra,26.43,13.23,0.4994,0.045
+P00778,Calibre Plus Headphones,Electronics,Headphones,Calibre,58.09,45.91,0.2097,0.085
+P00779,Tekaro Classic Camping,Sports & Outdoors,Camping,Tekaro,43.93,24.71,0.4375,0.07
+P00780,Calibre Pro Stationery,Office,Stationery,Calibre,21.5,13.38,0.3776,0.04
+P00781,Mavix Prime Cookware,Home & Kitchen,Cookware,Mavix,26.91,15.87,0.41,0.055
+P00782,Velto Elite Grooming, Pet Supplies ,Grooming,Velto,53.8,31.28,0.4187,0.035
+P00783,Torven Classic T-Shirts,Fashion,T-Shirts,Torven,103.6,57.9,0.4411,0.13
+P00784,Torven Pro Hair Care,Beauty,Hair Care,Torven,27.79,12.59,0.5468,0.045
+P00785,Kentra Comfort Toys,Pet Supplies,Toys,Kentra,14.45,8.68,0.3996,0.035
+P00786,Tekaro Elite T-Shirts,Fashion,T-Shirts,Tekaro,29.55,18.24,0.383,0.13
+P00787,Nexora Max Chairs,Office,Chairs,Nexora,28.94,21.55,0.2555,0.04
+P00788,Tekaro Plus Cookware,Home & Kitchen,Cookware,Tekaro,81.05,60.8,0.2499,0.055
+P00789,Solara Max Organizers,Office,Organizers,Solara,29.93,22.88,0.2357,0.04
+P00790,Avero Classic Makeup,Beauty,Makeup,Avero,15.95,8.99,0.4362,0.045
+P00791,Lumex Essential Storage,Home & Kitchen,Storage,Lumex,61.64,41.67,0.324,0.055
+P00792,Brivon Lite Accessories,Fashion,Accessories,Brivon,109.67,46.58,0.5753,0.13
+P00793,Lumex Pro Drinkware,Home & Kitchen,Drinkware,Lumex,62.62,44.91,0.2828,0.055
+P00794,Zenvia Classic Headphones,Electronics,Headphones,Zenvia,40.39,30.19,0.2525,0.085
+P00795,Nexora Elite Headphones,Electronics,Headphones,Nexora,52.38,39.96,0.2371,0.085
+P00796,Brivon Plus Small Appliances,Home & Kitchen,Small Appliances,Brivon,138.25,91.67,0.3369,0.055
+P00797,Solara Pro Headphones,Electronics,Headphones,Solara,74.96,59.53,0.2059,0.085
+P00798,Nexora Elite Mice,Electronics,Mice,Nexora,92.43,73.24,0.2076,0.085
+P00799,Avero Comfort Running,Sports & Outdoors,Running,Avero,31.3,19.59,0.3742,0.07
+P00800,Orbito Prime Camping,Sports & Outdoors,Camping,Orbito,76.63,54.66,0.2867,0.07
+P00801,Velto Lite Outdoor Gear,Sports & Outdoors,Outdoor Gear,Velto,36.57,24.51,0.3298,0.07
+P00802,Mavix Comfort Small Appliances,Home & Kitchen,Small Appliances,Mavix,54.44,32.09,0.4104,0.055
+P00803,Tekaro Classic Organizers,Office,Organizers,Tekaro,61.86,38.17,0.3829,0.04
+P00804,Velto Max Makeup,Beauty,Makeup,Velto,53.67,25.03,0.5337,0.045
+P00805,Lumex Flex Power Banks,Electronics,Power Banks,Lumex,91.45,70.41,0.2301,0.085
+P00806,Mirello Lite Speakers,Electronics,Speakers,Mirello,81.78,56.31,0.3114,0.085
+P00807,Novexa Prime Running,Sports & Outdoors,Running,Novexa,50.46,27.97,0.4457,0.07
+P00808,Kentra Pro Keyboards,Electronics,Keyboards,Kentra,81.21,63.45,0.2186,0.085
+P00809,Kentra Plus Jackets,Fashion,Jackets,Kentra,19.89,8.59,0.5684,0.13
+P00810,Tekaro Flex Grooming,Pet Supplies,Grooming,Tekaro,19.36,11.81,0.3897,0.035
+P00811,Calibre Plus Smart Watches,Electronics,Smart Watches,Calibre,105.58,70.47,0.3325,0.085
+P00812,Novexa Prime Keyboards,Electronics,Keyboards,Novexa,58.26,38.76,0.3347,0.085
+P00813,Nexora Plus Grooming,Pet Supplies,Grooming,Nexora,16.13,10.91,0.3238,0.035
+P00814,Calibre Elite Fragrance,Beauty,Fragrance,Calibre,30.64,13.88,0.5469,0.045
+P00815,Nexora Comfort Speakers,Electronics,Speakers,Nexora,96.31,69.0,0.2835,0.085
+P00816,Calibre Lite Chairs,Office,Chairs,Calibre,51.11,39.6,0.2252,0.04
+P00817,Tekaro Elite Chairs,Office,Chairs,Tekaro,19.48,14.65,0.2481,0.04
+P00818,Orbito Prime Jackets,Fashion,Jackets,Orbito,29.54,17.34,0.4131,0.13
+P00819,Orbito Pro Skincare,Beauty,Skincare,Orbito,31.32,12.48,0.6016,0.045
+P00820,Zenvia Plus Lighting,Home & Kitchen,Lighting,Zenvia,34.07,25.44,0.2532,0.055
+P00821,Lumex Lite Keyboards,Electronics,Keyboards,Lumex,74.91,51.41,0.3137,0.085
+P00822,Velto Max Skincare,Beauty,Skincare,Velto,30.9,16.76,0.4576,0.045
+P00823,Tekaro Lite Cookware,Home & Kitchen,Cookware,Tekaro,88.44,52.81,0.4029,0.055
+P00824,Solara Classic Camping,Sports & Outdoors,Camping,Solara,63.47,39.59,0.3763,0.07
+P00825,Mirello Essential Stationery,Office,Stationery,Mirello,40.47,26.38,0.3482,0.04
+P00826,Orbito Classic Power Banks,Electronics,Power Banks,Orbito,90.36,66.6,0.263,0.085
+P00827,Calibre Classic Fragrance,Beauty,Fragrance,Calibre,23.86,11.93,0.5001,0.045
+P00828,Kentra Flex Drinkware,Home & Kitchen,Drinkware,Kentra,54.69,35.76,0.3461,0.055
+P00829,Orbito Max Printers,Office,Printers,Orbito,23.36,14.22,0.3912,0.04
+P00830,Mavix Elite Drinkware,Home & Kitchen,Drinkware,Mavix,43.07,29.75,0.3093,0.055
+P00831,Nexora Max Fragrance,Beauty,Fragrance,Nexora,35.91,18.13,0.495,0.045
+P00832,Novexa Comfort Fragrance,Beauty,Fragrance,Novexa,29.65,13.18,0.5555,0.045
+P00833,Mavix Classic T-Shirts,Fashion,T-Shirts,Mavix,45.31,24.14,0.4671,0.13
+P00834,Novexa Prime Fitness,Sports & Outdoors,Fitness,Novexa,50.66,28.74,0.4326,0.07
+P00835,Novexa Prime Camping,Sports & Outdoors,Camping,Novexa,47.7,30.03,0.3705,0.07
+P00836,Mavix Pro Skincare,Beauty,Skincare,Mavix,28.34,14.34,0.4939,0.045
+P00837,Avero Essential Fitness,Sports & Outdoors,Fitness,Avero,40.27,26.07,0.3527,0.07
+P00838,Zenvia Max Pet Beds,pet supplies,Pet Beds,Zenvia,37.93,22.96,0.3948,0.035
+P00839,Avero Comfort T-Shirts,Fashion,T-Shirts,Avero,54.7,34.66,0.3664,0.13
+P00840,Tekaro Pro Jackets,Fashion,Jackets,Tekaro,36.92,19.55,0.4705,0.13
+P00841,Calibre Essential Mice,Electronics,Mice,Calibre,80.9,58.07,0.2822,0.085
+P00842,Kentra Max Stationery,Office,Stationery,Kentra,32.66,23.1,0.2927,0.04
+P00843,Mavix Classic Shoes,Fashion,Shoes,Mavix,28.35,13.82,0.5126,0.13
+P00844,Lumex Max Accessories,Fashion,Accessories,Lumex,39.46,18.49,0.5315,0.13
+P00845,Tekaro Comfort Keyboards,Electronics,Keyboards,Tekaro,123.24,88.16,0.2846,0.085
+P00846,Mirello Comfort Printers,Office,Printers,Mirello,57.22,43.32,0.2429,0.04
+P00847,Solara Comfort Jackets,fashion,Jackets,Solara,40.17,18.65,0.5356,0.13
+P00848,Torven Lite Fitness,Sports & Outdoors,Fitness,Torven,52.83,37.86,0.2832,0.07
+P00849,Lumex Comfort Smart Watches,Electronics,Smart Watches,Lumex,37.82,27.67,0.2684,0.085
+P00850,Mirello Plus Toys,Pet Supplies,Toys,Mirello,31.26,18.64,0.4038,0.035
+P00851,Mirello Comfort Headphones, Electronics ,Headphones,Mirello,58.95,47.37,0.1964,0.085
+P00852,Lumex Comfort Storage,Home & Kitchen,Storage,,65.89,48.82,0.259,0.055
+P00853,Novexa Comfort Desk Accessories,Office,Desk Accessories,Novexa,36.54,27.25,0.2542,0.04
+P00854,Novexa Comfort Dog Supplies,Pet Supplies,Dog Supplies,Novexa,19.24,12.69,0.3405,0.035
+P00855,Kentra Max Storage,Home & Kitchen,Storage,Kentra,77.17,57.08,0.2604,0.055
+P00856,Kentra Essential Shoes,Fashion,Shoes,Kentra,35.22,17.39,0.5062,0.13
+P00857,Torven Classic Camping,Sports & Outdoors,Camping,Torven,60.33,41.96,0.3045,0.07
+P00858,Calibre Pro Desk Accessories,Office,Desk Accessories,Calibre,56.8,42.74,0.2475,0.04
+P00859,Mirello Elite Shoes,Fashion,Shoes,Mirello,77.43,47.19,0.3906,0.13
+P00860,Zenvia Essential Shoes, Fashion ,Shoes,Zenvia,47.44,20.19,0.5745,0.13
+P00861,Zenvia Max Cycling,Sports & Outdoors,Cycling,Zenvia,56.26,40.35,0.2828,0.07
+P00862,Mavix Max Camping,Sports & Outdoors,Camping,Mavix,48.11,27.19,0.4349,0.07
+P00863,Tekaro Plus Running,Sports & Outdoors,Running,Tekaro,43.29,24.79,0.4273,0.07
+P00864,Mavix Pro Makeup,Beauty,Makeup,Mavix,28.76,12.88,0.5523,0.045
+P00865,Calibre Comfort Keyboards,Electronics,Keyboards,Calibre,70.01,55.22,0.2113,0.085
+P00866,Nexora Plus Toys,Pet Supplies,Toys,Nexora,17.61,11.8,0.33,0.035
+P00867,Solara Flex Chairs,Office,Chairs,Solara,65.84,50.52,0.2327,0.04
+P00868,Mirello Pro Desk Accessories,Office,Desk Accessories,Mirello,19.8,12.04,0.3921,0.04
+P00869,Torven Max Mice,Electronics,Mice,Torven,75.59,58.56,0.2253,0.085
+P00870,Orbito Lite Drinkware,Home & Kitchen,Drinkware,,29.31,19.58,0.3321,0.055
+P00871,Calibre Max Cycling,Sports & Outdoors,Cycling,Calibre,67.52,39.58,0.4138,0.07
+P00872,Zenvia Flex Speakers,Electronics,Speakers,Zenvia,56.24,38.86,0.3091,0.085
+P00873,Velto Elite Dog Supplies,Pet Supplies,Dog Supplies,Velto,30.89,19.13,0.3809,0.035
+P00874,Torven Essential Accessories,Fashion,Accessories,Torven,34.4,16.82,0.511,0.13
+P00875,Kentra Essential Outdoor Gear,Sports & Outdoors,Outdoor Gear,Kentra,148.32,104.62,0.2947,0.07
+P00876,Torven Pro Printers,Office,Printers,Torven,43.16,26.59,0.3838,0.04
+P00877,Torven Pro Shoes,Fashion,Shoes,Torven,76.94,48.52,0.3694,0.13
+P00878,Solara Flex Cookware,Home & Kitchen,Cookware,Solara,29.59,19.35,0.3462,0.055
+P00879,Mavix Elite Makeup,Beauty,Makeup,Mavix,13.18,6.31,0.5214,0.045
+P00880,Velto Prime Makeup,Beauty,Makeup,Velto,19.16,9.71,0.4932,0.045
+P00881,Torven Pro Jeans,Fashion,Jeans,Torven,91.55,59.25,0.3528,0.13
+P00882,Novexa Elite Skincare,Beauty,Skincare,Novexa,41.1,22.09,0.4626,0.045
+P00883,Tekaro Pro Dog Supplies,Pet Supplies,Dog Supplies,Tekaro,29.41,15.89,0.4596,0.035
+P00884,Mavix Elite Jeans,Fashion,Jeans,Mavix,46.41,23.55,0.4925,0.13
+P00885,Novexa Max Drinkware,Home & Kitchen,Drinkware,Novexa,100.74,69.36,0.3115,0.055
+P00886,Zenvia Essential Bags,Fashion,Bags,Zenvia,62.54,31.75,0.4923,0.13
+P00887,Velto Essential Bags,Fashion,Bags,Velto,59.15,37.65,0.3635,0.13
+P00888,Torven Plus Power Banks,Electronics,Power Banks,Torven,61.93,41.67,0.3273,0.085
+P00889,Torven Essential Mice,Electronics,Mice,Torven,54.29,40.4,0.2558,0.085
+P00890,Torven Essential Outdoor Gear,Sports & Outdoors,Outdoor Gear,Torven,67.29,48.89,0.2735,0.07
+P00891,Solara Essential Drinkware,Home & Kitchen,Drinkware,Solara,62.01,45.7,0.2629,0.055
+P00892,Brivon Prime Dog Supplies,Pet Supplies,Dog Supplies,Brivon,15.51,10.13,0.3469,0.035
+P00893,Torven Prime Bedding,Home & Kitchen,Bedding,Torven,51.36,30.93,0.3979,0.055
+P00894,Torven Essential Mice,Electronics,Mice,Torven,104.82,82.88,0.2093,0.085
+P00895,Tekaro Pro Yoga,Sports & Outdoors,Yoga,Tekaro,42.28,23.69,0.4396,0.07
+P00896,Zenvia Lite Organizers,Office,Organizers,Zenvia,25.26,18.28,0.2765,0.04
+P00897,Novexa Elite Lighting,Home & Kitchen,Lighting,Novexa,91.74,60.77,0.3375,0.055
+P00898,Brivon Plus Lighting,Home & Kitchen,Lighting,Brivon,76.9,48.14,0.374,0.055
+P00899,Solara Prime Bedding,Home & Kitchen,Bedding,Solara,34.36,25.21,0.2664,0.055
+P00900,Mavix Max Jackets,Fashion,Jackets,Mavix,57.16,35.59,0.3773,0.13
+P00901,Nexora Lite T-Shirts,Fashion,T-Shirts,Nexora,30.1,18.39,0.389,0.13
+P00902,Velto Essential Drinkware,Home & Kitchen,Drinkware,Velto,55.48,33.22,0.4013,0.055
+P00903,Solara Pro Speakers,Electronics,Speakers,Solara,70.57,55.33,0.216,0.085
+P00904,Solara Classic Jackets,Fashion,Jackets,Solara,15.63,6.87,0.5605,0.13
+P00905,Nexora Max Pet Beds,Pet Supplies,Pet Beds,Nexora,55.02,32.11,0.4164,0.035
+P00906,Velto Comfort Camping,Sports & Outdoors,Camping,Velto,48.45,30.59,0.3686,0.07
+P00907,Kentra Lite T-Shirts,Fashion,T-Shirts,Kentra,33.18,20.19,0.3915,0.13
+P00908,Zenvia Prime Power Banks,Electronics,Power Banks,Zenvia,102.5,71.28,0.3045,0.085
+P00909,Novexa Prime Drinkware,Home & Kitchen,Drinkware,Novexa,42.7,30.35,0.2892,0.055
+P00910,Solara Classic Bedding,Home & Kitchen,Bedding,Solara,33.58,19.96,0.4055,0.055
+P00911,Mirello Comfort Cycling,Sports & Outdoors,Cycling,Mirello,57.75,38.08,0.3405,0.07
+P00912,Tekaro Pro Desk Accessories, Office ,Desk Accessories,Tekaro,12.37,9.31,0.2471,0.04
+P00913,Novexa Pro Toys,Pet Supplies,TOYS,Novexa,30.35,21.16,0.3028,0.035
+P00914,Tekaro Plus Dog Supplies,Pet Supplies,Dog Supplies,Tekaro,25.09,16.03,0.361,0.035
+P00915,Tekaro Pro Pet Beds,Pet Supplies,Pet Beds,Tekaro,100.17,58.25,0.4184,0.035
+P00916,Nexora Pro Cat Supplies,Pet Supplies,Cat Supplies,Nexora,13.11,8.81,0.3276,0.035
+P00917,Avero Flex Smart Watches,Electronics,Smart Watches,Avero,133.9,90.48,0.3243,0.085
+P00918,Avero Max Power Banks,Electronics,Power Banks,Avero,37.7,27.44,0.2721,0.085
+P00919,Calibre Classic Drinkware,Home & Kitchen,Drinkware,Calibre,73.6,52.01,0.2933,0.055
+P00920,Nexora Flex Hair Care,Beauty,Hair Care,Nexora,29.51,16.07,0.4555,0.045
+P00921,Mirello Comfort Power Banks,Electronics,Power Banks,Mirello,33.43,24.96,0.2533,0.085
+P00922,Novexa Essential Stationery,Office,Stationery,Novexa,28.99,19.72,0.3198,0.04
+P00923,Calibre Flex Skincare,Beauty,Skincare,Calibre,9.99,4.63,0.5368,0.045
+P00924,Zenvia Plus Fragrance,Beauty,Fragrance,Zenvia,25.2,13.6,0.4602,0.045
+P00925,Brivon Prime Power Banks,Electronics,Power Banks,Brivon,52.7,36.26,0.3119,0.085
+P00926,Velto Elite Bedding,Home & Kitchen,Bedding,Velto,39.48,27.68,0.2989,0.055
+P00927,Nexora Classic Mice,Electronics,Mice,Nexora,97.45,77.33,0.2065,0.085
+P00928,Lumex Elite Organizers,Office,Organizers,Lumex,13.48,9.94,0.2624,0.04
+P00929,Orbito Elite Grooming,Beauty,Grooming,Orbito,25.92,15.82,0.3897,0.045
+P00930,Mirello Pro Cycling,Sports & Outdoors,Cycling,Mirello,39.4,24.75,0.3719,0.07
+P00931,Calibre Flex Lighting,Home & Kitchen,Lighting,Calibre,17.25,11.68,0.3227,0.055
+P00932,Kentra Flex Shoes,Fashion,Shoes,Kentra,39.61,23.54,0.4055,0.13
+P00933,Orbito Prime Shoes,Fashion,Shoes,Orbito,60.66,37.86,0.3758,0.13
+P00934,Mirello Flex Camping,Sports & Outdoors,Camping,Mirello,43.3,27.29,0.3697,0.07
+P00935,Torven Essential Camping,Sports & Outdoors,Camping,Torven,105.42,71.52,0.3216,0.07
+P00936,Velto Flex Bedding,Home & Kitchen,Bedding,Velto,28.65,19.22,0.3289,0.055
+P00937,Novexa Prime Dog Supplies,Pet Supplies,Dog Supplies,Novexa,26.46,16.12,0.391,0.035
+P00938,Mavix Classic Mice,Electronics,Mice,Mavix,47.32,37.81,0.2009,0.085
+P00939,Mavix Plus Organizers,Office,Organizers,Mavix,72.33,46.57,0.3561,0.04
+P00940,Calibre Flex Smart Watches,Electronics,Smart Watches,Calibre,65.82,48.54,0.2625,0.085
+P00941,Lumex Comfort Small Appliances,Home & Kitchen,Small Appliances,Lumex,88.38,62.39,0.2941,0.055
+P00942,Torven Pro Chairs,Office,Chairs,Torven,25.7,16.52,0.3574,0.04
+P00943,Lumex Elite Power Banks,Electronics,Power Banks,Lumex,96.25,67.02,0.3037,0.085
+P00944,Avero Prime Accessories,Fashion,Accessories,Avero,82.43,43.0,0.4783,0.13
+P00945,Zenvia Comfort Accessories,Fashion,Accessories,Zenvia,31.18,16.32,0.4767,0.13
+P00946,Calibre Lite Drinkware,Home & Kitchen,Drinkware,Calibre,24.86,15.97,0.3577,0.055
+P00947,Solara Lite Running,Sports & Outdoors,Running,Solara,24.39,14.72,0.3966,0.07
+P00948,Mirello Essential Printers,Office,Printers,Mirello,39.11,27.93,0.2859,0.04
+P00949,Avero Plus Desk Accessories,Office,Desk Accessories,Avero,52.1,36.01,0.3088,0.04
+P00950,Velto Pro Bedding,Home & Kitchen,Bedding,Velto,53.99,31.51,0.4164,0.055
+P00951,Zenvia Lite T-Shirts,Fashion,T-Shirts,Zenvia,51.27,32.5,0.3662,0.13
+P00952,Kentra Pro Drinkware,Home & Kitchen,Drinkware,Kentra,46.88,29.93,0.3616,0.055
+P00953,Novexa Classic Cookware,Home & Kitchen,Cookware,Novexa,41.59,26.19,0.3703,0.055
+P00954,Torven Pro Headphones,Electronics,Headphones,Torven,109.1,72.18,0.3384,0.085
+P00955,Orbito Max Dog Supplies,Pet Supplies,Dog Supplies,Orbito,19.83,13.24,0.3321,0.035
+P00956,Tekaro Max Organizers,Office,Organizers,Tekaro,35.2,27.22,0.2267,0.04
+P00957,Brivon Flex Outdoor Gear,Sports & Outdoors,Outdoor Gear,Brivon,65.47,36.89,0.4365,0.07
+P00958,Calibre Plus T-Shirts,Fashion,T-Shirts,Calibre,146.0,66.4,0.5452,0.13
+P00959,Calibre Max Jeans,Fashion,Jeans,Calibre,109.41,58.81,0.4625,0.13
+P00960,Torven Flex T-Shirts,Fashion,T-Shirts,Torven,61.7,28.89,0.5318,0.13
+P00961,Torven Essential Bags,Fashion,Bags,Torven,58.37,27.62,0.5269,0.13
+P00962,Nexora Flex Shoes,Fashion,Shoes,Nexora,59.48,29.85,0.4981,0.13
+P00963,Velto Essential Speakers,Electronics,Speakers,Velto,179.29,126.08,0.2968,0.085
+P00964,Mirello Lite Smart Watches,Electronics,Smart Watches,Mirello,72.44,48.06,0.3365,0.085
+P00965,Nexora Lite Cat Supplies,Pet Supplies,Cat Supplies,Nexora,16.6,10.3,0.3795,0.035
+P00966,Kentra Comfort Shoes,Fashion,Shoes,Kentra,39.5,16.71,0.5769,0.13
+P00967,Zenvia Flex Cat Supplies,Pet Supplies,Cat Supplies,Zenvia,13.15,6.95,0.4714,0.035
+P00968,Nexora Flex Smart Watches,Electronics,Smart Watches,Nexora,119.76,79.55,0.3357,0.085
+P00969,Orbito Flex Makeup,Beauty,Makeup,Orbito,17.51,8.9,0.4921,0.045
+P00970,Solara Max Storage,Home & Kitchen,Storage,Solara,41.3,30.38,0.2645,0.055
+P00971,Mavix Comfort Lighting,Home & Kitchen,Lighting,Mavix,48.42,34.93,0.2788,0.055
+P00972,Solara Plus Speakers,Electronics,Speakers,,77.87,52.64,0.3239,0.085
+P00973,Tekaro Lite Mice,Electronics,Mice,Tekaro,119.13,91.38,0.2329,0.085
+P00974,Nexora Lite Dog Supplies,Pet Supplies,Dog Supplies,Nexora,24.14,15.58,0.3546,0.035
+P00975,Orbito Elite Lighting,Home & Kitchen,Lighting,Orbito,41.79,26.88,0.3567,0.055
+P00976,Nexora Plus Skincare,Beauty,Skincare,Nexora,52.5,23.86,0.5455,0.045
+P00977,Velto Essential Accessories,Fashion,Accessories,Velto,24.96,16.22,0.3502,0.13
+P00978,Brivon Elite Jackets,Fashion,Jackets,Brivon,32.46,19.06,0.4128,0.13
+P00979,Mirello Flex Bags,Fashion,Bags,Mirello,78.86,45.63,0.4213,0.13
+P00980,Mavix Plus Bedding,Home & Kitchen,Bedding,Mavix,30.08,18.52,0.3845,0.055
+P00981,Lumex Lite Grooming,Pet Supplies,Grooming,Lumex,22.41,11.79,0.474,0.035
+P00982,Mavix Plus Printers,Office,Printers,Mavix,24.94,16.88,0.3234,0.04
+P00983,Zenvia Plus Camping,Sports & Outdoors,Camping,Zenvia,60.37,38.86,0.3564,0.07
+P00984,Tekaro Flex T-Shirts,Fashion,T-Shirts,Tekaro,57.6,32.03,0.444,0.13
+P00985,Kentra Elite Speakers,Electronics,Speakers,Kentra,111.8,86.19,0.229,0.085
+P00986,Zenvia Plus Dog Supplies,Pet Supplies,Dog Supplies,Zenvia,23.19,13.17,0.432,0.035
+P00987,Lumex Prime Cookware,Home & Kitchen,Cookware,Lumex,50.37,37.58,0.254,0.055
+P00988,Kentra Prime Speakers,Electronics,Speakers,Kentra,55.85,45.38,0.1874,0.085
+P00989,Novexa Lite Bedding,Home & Kitchen,Bedding,Novexa,53.47,36.27,0.3216,0.055
+P00990,Zenvia Pro Printers,Office,Printers,Zenvia,42.45,29.5,0.3049,0.04
+P00991,Zenvia Classic Makeup,Beauty,Makeup,Zenvia,38.83,20.35,0.476,0.045
+P00992,Velto Max Yoga,sports & outdoors,Yoga,Velto,54.94,35.11,0.3609,0.07
+P00993,Novexa Prime Printers,Office,Printers,Novexa,45.27,31.69,0.3,0.04
+P00994,Calibre Essential Bedding,Home & Kitchen,Bedding,Calibre,37.81,26.72,0.2934,0.055
+P00995,Mavix Lite Pet Beds,Pet Supplies,Pet Beds,Mavix,22.52,14.2,0.3693,0.035
+P00996,Mavix Elite Bags,Fashion,Bags,Mavix,68.88,35.08,0.4907,0.13
+P00997,Brivon Lite Makeup,Beauty,Makeup,Brivon,46.89,25.19,0.4627,0.045
+P00998,Mavix Lite Mice,Electronics,Mice,Mavix,85.34,67.95,0.2038,0.085
+P00999,Brivon Prime Dog Supplies,Pet Supplies,Dog Supplies,,27.98,16.16,0.4225,0.035
+P01000,Velto Pro Cookware,Home & Kitchen,Cookware,Velto,27.82,17.12,0.3848,0.055
+P01001,Tekaro Lite Headphones,Electronics,Headphones,Tekaro,69.17,53.22,0.2306,0.085
+P01002,Mirello Elite Accessories,Fashion,Accessories,,103.35,61.55,0.4044,0.13
+P01003,Novexa Classic Keyboards,Electronics,Keyboards,Novexa,109.15,88.64,0.1879,0.085
+P01004,Avero Pro Headphones,Electronics,Headphones,Avero,86.24,67.83,0.2135,0.085
+P01005,Novexa Pro Makeup,Beauty,Makeup,Novexa,21.62,13.03,0.3972,0.045
+P01006,Kentra Flex T-Shirts,Fashion,T-Shirts,Kentra,30.77,15.63,0.4919,0.13
+P01007,Lumex Essential Toys,Pet Supplies,Toys,Lumex,15.12,8.98,0.406,0.035
+P01008,Velto Max Bedding,Home & Kitchen,Bedding,Velto,12.0,7.12,0.4063,0.055
+P01009,Mavix Elite Cycling,Sports & Outdoors,Cycling,Mavix,101.8,73.06,0.2824,0.07
+P01010,Solara Elite Accessories,Fashion,Accessories,Solara,48.57,25.94,0.4659,0.13
+P01011,Solara Max Yoga,Sports & Outdoors,Yoga,Solara,36.41,24.7,0.3218,0.07
+P01012,Brivon Prime Fragrance,Beauty,Fragrance,Brivon,18.02,10.25,0.4314,0.045
+P01013,Tekaro Essential T-Shirts,Fashion,T-Shirts,Tekaro,52.3,33.95,0.351,0.13
+P01014,Solara Lite Pet Beds,Pet Supplies,Pet Beds,Solara,26.52,18.17,0.315,0.035
+P01015,Lumex Max Bedding,Home & Kitchen,Bedding,Lumex,39.55,25.39,0.358,0.055
+P01016,Velto Max Smart Watches,Electronics,Smart Watches,Velto,260.12,175.16,0.3266,0.085
+P01017,Torven Prime Cycling,Sports & Outdoors,Cycling,Torven,118.28,79.18,0.3306,0.07
+P01018,Mavix Lite Organizers,Office,Organizers,Mavix,34.43,22.61,0.3432,0.04
+P01019,Avero Max Power Banks,Electronics,Power Banks,Avero,94.71,63.18,0.3329,0.085
+P01020,Mavix Lite Jeans,Fashion,Jeans,Mavix,70.18,42.59,0.3931,0.13
+P01021,Calibre Plus Organizers,Office,Organizers,Calibre,37.73,26.46,0.2986,0.04
+P01022,Solara Flex Camping,Sports & Outdoors,Camping,Solara,38.37,24.63,0.3579,0.07
+P01023,Zenvia Lite Toys,Pet Supplies,Toys,Zenvia,23.53,13.67,0.4189,0.035
+P01024,Velto Comfort Jackets,Fashion,Jackets,Velto,55.9,29.68,0.469,0.13
+P01025,Solara Essential Outdoor Gear,Sports & Outdoors,Outdoor Gear,Solara,60.44,39.21,0.3513,0.07
+P01026,Torven Max Cookware,Home & Kitchen,Cookware,Torven,75.53,50.6,0.3301,0.055
+P01027,Brivon Lite Toys,Pet Supplies,Toys,Brivon,11.36,7.33,0.3549,0.035
+P01028,Orbito Lite Shoes,Fashion,Shoes,Orbito,63.47,35.25,0.4446,0.13
+P01029,Nexora Prime Outdoor Gear,Sports & Outdoors,Outdoor Gear,Nexora,65.86,38.23,0.4195,0.07
+P01030,Avero Comfort Accessories,Fashion,Accessories,Avero,80.71,46.9,0.4189,0.13
+P01031,Novexa Flex Fragrance,Beauty,Fragrance,Novexa,40.75,17.18,0.5784,0.045
+P01032,Calibre Plus Fitness,Sports & Outdoors,Fitness,Calibre,55.09,38.93,0.2934,0.07
+P01033,Mirello Comfort T-Shirts,Fashion,T-Shirts,Mirello,41.73,24.48,0.4132,0.13
+P01034,Brivon Plus Pet Beds,Pet Supplies,Pet Beds,Brivon,22.23,14.22,0.3603,0.035
+P01035,Tekaro Essential T-Shirts,Fashion,T-Shirts,Tekaro,45.67,21.54,0.5283,0.13
+P01036,Orbito Plus Hair Care,Beauty,Hair Care,Orbito,10.06,4.29,0.5733,0.045
+P01037,Lumex Comfort Small Appliances,Home & Kitchen,Small Appliances,Lumex,69.68,47.15,0.3233,0.055
+P01038,Calibre Max Shoes,Fashion,Shoes,Calibre,43.37,25.41,0.4141,0.13
+P01039,Mirello Flex T-Shirts, Fashion ,T-Shirts,Mirello,45.02,21.23,0.5283,0.13
+P01040,Kentra Pro Mice,Electronics,Mice,Kentra,48.1,37.18,0.2269,0.085
+P01041,Mavix Max Smart Watches,Electronics,Smart Watches,Mavix,93.64,70.29,0.2493,0.085
+P01042,Zenvia Max Camping,Sports & Outdoors,Camping,Zenvia,114.72,71.01,0.381,0.07
+P01043,Brivon Classic Camping,Sports & Outdoors,Camping,Brivon,32.95,19.8,0.3993,0.07
+P01044,Mirello Max Cycling,Sports & Outdoors,Cycling,Mirello,185.89,130.41,0.2984,0.07
+P01045,Tekaro Plus Power Banks,Electronics,Power Banks,Tekaro,98.73,67.38,0.3176,0.085
+P01046,Calibre Classic Small Appliances,Home & Kitchen,Small Appliances,Calibre,23.68,15.04,0.3651,0.055
+P01047,Torven Lite Lighting, Home & Kitchen ,Lighting,Torven,106.3,75.42,0.2905,0.055
+P01048,Velto Lite Cycling,sports & outdoors,Cycling,Velto,46.18,27.64,0.4015,0.07
+P01049,Velto Prime Desk Accessories,Office,Desk Accessories,Velto,34.91,21.65,0.38,0.04
+P01050,Mirello Plus Drinkware,Home & Kitchen,Drinkware,Mirello,80.74,57.17,0.2919,0.055
+P01051,Mirello Classic Outdoor Gear,Sports & Outdoors,Outdoor Gear,Mirello,25.5,15.84,0.3787,0.07
+P01052,Mavix Pro Speakers,Electronics,Speakers,Mavix,204.05,145.04,0.2892,0.085
+P01053,Lumex Elite Drinkware,Home & Kitchen,Drinkware,Lumex,64.64,44.62,0.3097,0.055
+P01054,Kentra Prime Speakers,Electronics,Speakers,Kentra,56.29,38.82,0.3104,0.085
+P01055,Zenvia Elite Cookware,Home & Kitchen,Cookware,Zenvia,38.0,26.09,0.3134,0.055
+P01056,Brivon Flex Cycling, Sports & Outdoors ,Cycling,Brivon,61.76,41.85,0.3224,0.07
+P01057,Solara Comfort Grooming,Pet Supplies,Grooming,Solara,20.87,13.71,0.3432,0.035
+P01058,Solara Prime Bedding,Home & Kitchen,Bedding,Solara,35.4,25.08,0.2916,0.055
+P01059,Tekaro Lite Grooming,Beauty,Grooming,Tekaro,23.17,12.97,0.4402,0.045
+P01060,Mirello Prime Running,Sports & Outdoors,Running,Mirello,55.59,36.74,0.3391,0.07
+P01061,Tekaro Classic Toys,Pet Supplies,Toys,Tekaro,33.36,17.63,0.4717,0.035
+P01062,Torven Max Skincare,Beauty,Skincare,Torven,20.37,7.82,0.6161,0.045
+P01063,Calibre Flex Lighting,Home & Kitchen,Lighting,Calibre,34.68,21.47,0.381,0.055
+P01064,Orbito Prime Fragrance,Beauty,Fragrance,Orbito,49.13,27.77,0.4347,0.045
+P01065,Velto Elite Lighting,home & kitchen,Lighting,Velto,28.49,20.48,0.281,0.055
+P01066,Lumex Classic Cat Supplies,Pet Supplies,Cat Supplies,Lumex,18.46,12.03,0.3486,0.035
+P01067,Zenvia Essential Bags,Fashion,Bags,Zenvia,58.75,36.04,0.3866,0.13
+P01068,Kentra Essential Cycling,Sports & Outdoors,Cycling,,25.74,17.64,0.3148,0.07
+P01069,Kentra Comfort Headphones,electronics,Headphones,Kentra,125.57,102.34,0.185,0.085
+P01070,Nexora Classic Shoes,Fashion,Shoes,Nexora,49.53,31.39,0.3663,0.13
+P01071,Mirello Essential Organizers,Office,Organizers,Mirello,16.32,11.52,0.2942,0.04
+P01072,Orbito Elite Makeup,Beauty,Makeup,Orbito,14.25,6.06,0.5749,0.045
+P01073,Mirello Prime T-Shirts,Fashion,T-Shirts,Mirello,23.89,13.82,0.4215,0.13
+P01074,Tekaro Comfort Dog Supplies,Pet Supplies,Dog Supplies,Tekaro,32.29,20.46,0.3666,0.035
+P01075,Nexora Lite Chairs,Office,Chairs,Nexora,31.04,23.64,0.2386,0.04
+P01076,Solara Classic Cookware,Home & Kitchen,Cookware,Solara,27.24,17.25,0.3667,0.055
+P01077,Brivon Elite Fragrance,Beauty,Fragrance,,17.26,10.0,0.4204,0.045
+P01078,Kentra Pro Jackets,Fashion,Jackets,Kentra,63.55,32.32,0.4915,0.13
+P01079,Tekaro Elite Makeup,Beauty,Makeup,Tekaro,31.16,18.07,0.42,0.045
+P01080,Zenvia Comfort Cookware,Home & Kitchen,Cookware,Zenvia,56.69,35.18,0.3793,0.055
+P01081,Zenvia Comfort Small Appliances,Home & Kitchen,Small Appliances,Zenvia,43.02,30.87,0.2823,0.055
+P01082,Novexa Plus Pet Beds,Pet Supplies,Pet Beds,Novexa,13.27,7.36,0.4452,0.035
+P01083,Orbito Lite Dog Supplies,Pet Supplies,Dog Supplies,Orbito,24.67,14.87,0.3973,0.035
+P01084,Kentra Flex Organizers,Office,Organizers,Kentra,41.42,25.45,0.3855,0.04
+P01085,Mirello Classic Pet Beds,Pet Supplies,Pet Beds,Mirello,25.99,14.89,0.427,0.035
+P01086,Zenvia Max Running,Sports & Outdoors,Running,Zenvia,89.8,60.06,0.3312,0.07
+P01087,Avero Essential Running,Sports & Outdoors,Running,Avero,49.23,27.97,0.4318,0.07
+P01088,Velto Plus Fitness,Sports & Outdoors,Fitness,Velto,60.33,36.99,0.3868,0.07
+P01089,Mirello Elite Jackets,Fashion,JACKETS,Mirello,22.5,10.05,0.5534,0.13
+P01090,Nexora Classic Bags,Fashion,Bags,Nexora,75.9,46.7,0.3847,0.13
+P01091,Kentra Max Lighting,Home & Kitchen,Lighting,Kentra,25.72,14.92,0.4198,0.055
+P01092,Tekaro Elite Hair Care,Beauty,Hair Care,Tekaro,47.22,27.47,0.4182,0.045
+P01093,Velto Prime Drinkware,Home & Kitchen,Drinkware,Velto,63.22,41.69,0.3405,0.055
+P01094,Avero Max Cookware,Home & Kitchen,Cookware,Avero,59.16,42.04,0.2894,0.055
+P01095,Brivon Max Fragrance,Beauty,Fragrance,Brivon,13.0,7.88,0.3933,0.045
+P01096,Mavix Plus Jeans,Fashion,Jeans,Mavix,57.88,33.6,0.4195,0.13
+P01097,Mirello Essential Storage,home & kitchen,Storage,Mirello,43.22,28.0,0.3522,0.055
+P01098,Kentra Pro Stationery,Office,Stationery,Kentra,42.29,29.16,0.3106,0.04
+P01099,Kentra Max Chairs,Office,Chairs,Kentra,24.82,17.1,0.311,0.04
+P01100,Solara Plus Speakers,Electronics,Speakers,Solara,138.69,102.9,0.2581,0.085
+P01101,Kentra Lite Headphones,Electronics,Headphones,Kentra,110.04,87.16,0.2079,0.085
+P01102,Calibre Elite Lighting,Home & Kitchen,Lighting,Calibre,61.61,46.25,0.2493,0.055
+P01103,Mavix Prime Desk Accessories,Office,Desk Accessories,Mavix,38.16,26.9,0.2949,0.04
+P01104,Avero Prime Printers, Office ,Printers,Avero,31.04,21.91,0.2942,0.04
+P01105,Kentra Essential Speakers,Electronics,Speakers,Kentra,130.57,86.28,0.3392,0.085
+P01106,Tekaro Flex Running,Sports & Outdoors,Running,Tekaro,38.87,23.62,0.3923,0.07
+P01107,Calibre Comfort Speakers,Electronics,Speakers,Calibre,60.72,46.93,0.2271,0.085
+P01108,Velto Lite T-Shirts,Fashion,T-Shirts,Velto,22.68,10.44,0.5399,0.13
+P01109,Nexora Comfort Toys,Pet Supplies,Toys,Nexora,30.62,18.31,0.402,0.035
+P01110,Novexa Prime Small Appliances,Home & Kitchen,Small Appliances,Novexa,67.44,43.82,0.3502,0.055
+P01111,Torven Plus Keyboards,Electronics,Keyboards,Torven,61.69,41.44,0.3282,0.085
+P01112,Mavix Max Shoes, Fashion ,Shoes,Mavix,41.98,26.77,0.3624,0.13
+P01113,Tekaro Pro Fragrance,Beauty,Fragrance,Tekaro,24.55,12.68,0.4836,0.045
+P01114,Tekaro Lite Pet Beds,Pet Supplies,Pet Beds,Tekaro,31.15,21.55,0.3084,0.035
+P01115,Velto Plus Dog Supplies,Pet Supplies,Dog Supplies,Velto,31.1,15.7,0.4953,0.035
+P01116,Orbito Lite Smart Watches,Electronics,Smart Watches,Orbito,118.9,93.32,0.2151,0.085
+P01117,Mirello Pro Keyboards,Electronics,Keyboards,Mirello,83.64,67.85,0.1889,0.085
+P01118,Zenvia Comfort Desk Accessories,Office,Desk Accessories,Zenvia,23.68,14.88,0.3717,0.04
+P01119,Brivon Pro Cookware,Home & Kitchen,Cookware,Brivon,32.77,19.42,0.4073,0.055
+P01120,Novexa Lite Stationery,Office,Stationery,Novexa,22.55,13.95,0.3813,0.04
+P01121,Mirello Plus Running,Sports & Outdoors,Running,Mirello,47.59,28.79,0.3951,0.07
+P01122,Lumex Essential Headphones,Electronics,Headphones,Lumex,141.13,110.82,0.2148,0.085
+P01123,Avero Classic Stationery,Office,Stationery,Avero,56.9,38.34,0.3261,0.04
+P01124,Solara Elite Keyboards,Electronics,Keyboards,Solara,59.13,39.11,0.3386,0.085
+P01125,Lumex Classic Shoes,Fashion,Shoes,Lumex,33.81,16.93,0.4992,0.13
+P01126,Velto Plus Fragrance,Beauty,Fragrance,Velto,10.59,4.67,0.5591,0.045
+P01127,Orbito Prime Accessories,Fashion,Accessories,Orbito,30.55,15.46,0.4939,0.13
+P01128,Mirello Essential Outdoor Gear,Sports & Outdoors,Outdoor Gear,Mirello,62.05,43.24,0.3031,0.07
+P01129,Nexora Elite Camping,Sports & Outdoors,Camping,Nexora,52.11,33.05,0.3658,0.07
+P01130,Brivon Essential Pet Beds,Pet Supplies,Pet Beds,Brivon,21.56,13.43,0.377,0.035
+P01131,Zenvia Classic Cat Supplies,Pet Supplies,Cat Supplies,Zenvia,36.85,19.41,0.4732,0.035
+P01132,Orbito Max T-Shirts,fashion,T-Shirts,Orbito,42.89,19.05,0.5558,0.13
+P01133,Tekaro Plus Power Banks,Electronics,Power Banks,Tekaro,61.69,49.38,0.1996,0.085
+P01134,Zenvia Lite Yoga,Sports & Outdoors,Yoga,Zenvia,50.26,27.39,0.4551,0.07
+P01135,Kentra Elite Cat Supplies,Pet Supplies,Cat Supplies,Kentra,26.15,15.46,0.4086,0.035
+P01136,Orbito Lite Storage,Home & Kitchen,Storage,Orbito,68.07,49.64,0.2706,0.055
+P01137,Nexora Classic Jackets,Fashion,Jackets,Nexora,51.24,32.69,0.362,0.13
+P01138,Mirello Lite Accessories,Fashion,Accessories,Mirello,88.12,55.8,0.3668,0.13
+P01139,Velto Classic Speakers,Electronics,Speakers,Velto,208.62,140.66,0.3258,0.085
+P01140,Tekaro Essential Cycling,Sports & Outdoors,Cycling,Tekaro,28.11,18.52,0.3413,0.07
+P01141,Orbito Classic Jackets,Fashion,Jackets,Orbito,79.49,49.8,0.3735,0.13
+P01142,Mavix Lite Running,Sports & Outdoors,Running,Mavix,32.44,23.05,0.2896,0.07
+P01143,Mavix Classic Organizers,Office,Organizers,Mavix,33.92,26.43,0.2208,0.04
+P01144,Avero Elite Desk Accessories,office,Desk Accessories,Avero,53.82,34.22,0.364,0.04
+P01145,Mavix Max Jeans,Fashion,Jeans,Mavix,45.02,21.88,0.5139,0.13
+P01146,Zenvia Lite Lighting,Home & Kitchen,Lighting,Zenvia,66.48,49.23,0.2594,0.055
+P01147,Brivon Plus Running,Sports & Outdoors,Running,Brivon,46.96,31.67,0.3257,0.07
+P01148,Calibre Comfort Stationery,Office,Stationery,Calibre,38.94,27.15,0.3029,0.04
+P01149,Solara Comfort T-Shirts,Fashion,T-Shirts,Solara,38.94,24.39,0.3737,0.13
+P01150,Kentra Pro Printers,Office,Printers,Kentra,66.89,51.42,0.2312,0.04
+P01151,Calibre Elite Headphones,Electronics,Headphones,Calibre,84.12,57.19,0.3201,0.085
+P01152,Solara Plus Organizers,Office,Organizers,Solara,28.28,19.89,0.2968,0.04
+P01153,Tekaro Flex Speakers,Electronics,Speakers,Tekaro,64.41,51.22,0.2048,0.085
+P01154,Zenvia Classic Speakers,Electronics,Speakers,Zenvia,25.0,20.3,0.188,0.085
+P01155,Mirello Lite Accessories,Fashion,Accessories,Mirello,51.54,27.69,0.4628,0.13
+P01156,Calibre Flex Speakers,Electronics,Speakers,Calibre,83.75,57.61,0.312,0.085
+P01157,Kentra Elite Keyboards,Electronics,Keyboards,Kentra,85.44,62.17,0.2724,0.085
+P01158,Novexa Elite Power Banks,Electronics,Power Banks,Novexa,56.42,39.66,0.297,0.085
+P01159,Orbito Elite Jeans,Fashion,Jeans,,18.89,10.64,0.437,0.13
+P01160,Tekaro Max Camping,Sports & Outdoors,Camping,Tekaro,106.33,61.77,0.4191,0.07
+P01161,Orbito Comfort Speakers,Electronics,Speakers,Orbito,35.75,27.42,0.2331,0.085
+P01162,Torven Prime Cycling,Sports & Outdoors,Cycling,Torven,140.27,84.59,0.397,0.07
+P01163,Brivon Classic Printers,Office,Printers,Brivon,23.44,17.27,0.2635,0.04
+P01164,Lumex Comfort Smart Watches,Electronics,Smart Watches,Lumex,216.78,158.54,0.2686,0.085
+P01165,Zenvia Classic Power Banks,Electronics,Power Banks,Zenvia,61.91,50.65,0.182,0.085
+P01166,Torven Pro Organizers,Office,Organizers,Torven,138.85,103.7,0.2531,0.04
+P01167,Mavix Comfort Stationery,Office,Stationery,Mavix,36.03,23.96,0.3349,0.04
+P01168,Lumex Elite Jackets,Fashion,Jackets,Lumex,51.39,32.93,0.3592,0.13
+P01169,Mavix Prime Desk Accessories,Office,Desk Accessories,Mavix,68.08,52.05,0.2356,0.04
+P01170,Kentra Plus Mice,Electronics,Mice,Kentra,49.38,40.17,0.1866,0.085
+P01171,Nexora Prime Shoes,Fashion,Shoes,Nexora,39.5,17.31,0.5619,0.13
+P01172,Velto Prime Cycling,Sports & Outdoors,Cycling,Velto,24.44,14.29,0.4155,0.07
+P01173,Velto Pro Storage,Home & Kitchen,Storage,Velto,38.93,27.08,0.3044,0.055
+P01174,Orbito Flex Yoga,Sports & Outdoors,Yoga,Orbito,71.69,43.26,0.3965,0.07
+P01175,Orbito Comfort Jeans,Fashion,Jeans,Orbito,35.53,22.75,0.3597,0.13
+P01176,Kentra Essential Outdoor Gear,Sports & Outdoors,Outdoor Gear,,76.49,51.5,0.3266,0.07
+P01177,Zenvia Prime Bags,Fashion,Bags,Zenvia,90.09,44.76,0.5032,0.13
+P01178,Solara Comfort Jeans,Fashion,Jeans,Solara,58.31,27.8,0.5232,0.13
+P01179,Tekaro Comfort Lighting,Home & Kitchen,Lighting,Tekaro,40.39,23.95,0.4071,0.055
+P01180,Orbito Flex Lighting,Home & Kitchen,Lighting,Orbito,36.42,25.3,0.3055,0.055
+P01181,Tekaro Prime Cycling,Sports & Outdoors,Cycling,Tekaro,34.54,24.28,0.297,0.07
+P01182,Velto Lite Speakers,Electronics,Speakers,Velto,76.96,51.39,0.3323,0.085
+P01183,Novexa Max Keyboards,Electronics,Keyboards,Novexa,121.13,93.21,0.2305,0.085
+P01184,Lumex Comfort Headphones,Electronics,Headphones,Lumex,280.0,202.84,0.2756,0.085
+P01185,Zenvia Plus Mice,Electronics,Mice,Zenvia,80.09,56.43,0.2955,0.085
+P01186,Calibre Comfort Stationery,Office,Stationery,Calibre,70.13,51.93,0.2594,0.04
+P01187,Novexa Essential Accessories,Fashion,Accessories,Novexa,28.02,16.68,0.4047,0.13
+P01188,Mavix Lite Grooming,Pet Supplies,Grooming,Mavix,32.51,21.52,0.3382,0.035
+P01189,Mirello Flex Smart Watches,Electronics,Smart Watches,Mirello,53.72,40.72,0.242,0.085
+P01190,Tekaro Lite Outdoor Gear,Sports & Outdoors,Outdoor Gear,Tekaro,20.86,13.51,0.3524,0.07
+P01191,Orbito Essential Jeans,Fashion,Jeans,Orbito,80.67,39.67,0.5082,0.13
+P01192,Tekaro Classic T-Shirts,Fashion,T-Shirts,Tekaro,36.38,21.97,0.3963,0.13
+P01193,Nexora Max Organizers,Office,Organizers,Nexora,29.58,19.19,0.3513,0.04
+P01194,Solara Flex Cat Supplies,Pet Supplies,Cat Supplies,Solara,30.52,19.98,0.3453,0.035
+P01195,Orbito Max Printers,Office,Printers,Orbito,42.77,30.81,0.2796,0.04
+P01196,Kentra Essential Storage,Home & Kitchen,Storage,Kentra,70.54,47.66,0.3243,0.055
+P01197,Torven Elite Cookware,Home & Kitchen,Cookware,Torven,54.13,37.7,0.3036,0.055
+P01198,Avero Essential Cycling,Sports & Outdoors,Cycling,Avero,99.2,57.61,0.4192,0.07
+P01199,Mirello Pro Small Appliances,Home & Kitchen,Small Appliances,Mirello,55.57,32.73,0.4111,0.055
+P01200,Avero Classic Yoga,Sports & Outdoors,Yoga,Avero,80.16,49.36,0.3842,0.07
