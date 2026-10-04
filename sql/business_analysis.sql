@@ -609,6 +609,7 @@ SELECT
 FROM orders
 WHERE Order_Status = 'Completed'
   AND Ship_Date IS NOT NULL
+  AND Shipping_Method IN ('Standard', 'Express', 'Same Day')
 GROUP BY Shipping_Method
 ORDER BY Avg_Shipping_Days;
 
@@ -650,7 +651,7 @@ ORDER BY Cost_Per_Attributed_Order;
 
 -- ------------------------------------------------------------
 -- 22. SALES REVENUE VS MARKETING SPEND
--- Directional comparison, not a strict causal attribution model.
+-- Directional comparison only; this is not causal ROAS attribution.
 -- ------------------------------------------------------------
 
 WITH sales_channel AS (
@@ -728,6 +729,7 @@ ORDER BY
 -- ------------------------------------------------------------
 -- 24. CUSTOMER RFM-STYLE SEGMENTATION
 -- Recency is measured relative to the latest completed order date.
+-- Segment thresholds are heuristic business rules for this portfolio case study.
 -- ------------------------------------------------------------
 
 WITH max_date AS (

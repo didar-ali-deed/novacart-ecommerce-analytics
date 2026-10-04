@@ -27,6 +27,18 @@ files = {
     "marketing": CLEAN_DIR / "marketing_clean.csv",
 }
 
+# Check every input before opening the database so missing files fail clearly
+# without replacing an existing database with a partial load.
+missing_files = [path for path in files.values() if not path.is_file()]
+if missing_files:
+    missing_list = "\n".join(f"  - {path}" for path in missing_files)
+    raise FileNotFoundError(
+        "Required cleaned CSV file(s) are missing:\n"
+        f"{missing_list}\n"
+        "Run notebooks/02_data_cleaning.ipynb from the notebooks directory "
+        "to create them."
+    )
+
 parse_dates = {
     "customers": ["Signup_Date"],
     "orders": ["Order_Date", "Ship_Date"],
